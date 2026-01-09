@@ -1,0 +1,1224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content>
+  <file_system name="Safety" id="Safety~0000" />
+  <file name="StorageProperties.xml" id="StorageProperties~0000.xml" />
+  <file name="StorageContent.xml" id="StorageContent~0000.xml" />
+  <folder name="PROJECT">
+    <file name="PROJECT.proj" id="PROJECT~PROJECT~0000.proj" />
+    <folder name="Hardware">
+      <file name="a50b6ee3-561b-465d-b8ff-098ffeb01f63.DataLink" id="Hardware~a50b6ee3-56~0000.DataLink" />
+      <file name="a50b6ee3-561b-465d-b8ff-098ffeb01f63.projset" id="Hardware~a50b6ee3-56~0001.projset" />
+      <file name="a50b6ee3-561b-465d-b8ff-098ffeb01f63.Transport" id="Hardware~a50b6ee3-56~0002.Transport" />
+      <file name="Description.en.html" id="Hardware~Description~0000.html" />
+      <file name="VersionHistory.usermeta" id="Hardware~VersionHist~0000.usermeta" />
+      <folder name="CFG_DAD2D2864F6B4807B38187D03BBF955E">
+        <file name="57539a58-30c8-4561-bc70-a02601a76d90.ds" id="CFG_DAD2D~57539a58-3~0000.ds" />
+        <file name="DataList.dl" id="CFG_DAD2D28~DataList~0000.dl" />
+        <file name="EtherCATAcontisData.ecc" id="CFG_DAD2D~EtherCATAc~0000.ecc" />
+        <file name="PlmConfiguration.plmc" id="CFG_DAD2D~PlmConfigu~0000.plmc" />
+        <folder name="EIP_Master">
+          <file name="57539a58-30c8-4561-bc70-a02601a76d90.L7_7_EIP_Master.station" id="EIP_Maste~57539a58-3~0000.station" />
+          <file name="Arp.Io.EthernetIP.acf.config" id="EIP_Maste~Arp.Io.Eth~0000.config" />
+          <file name="Arp.Io.EthernetIP.libmeta" id="EIP_Maste~Arp.Io.Eth~0001.libmeta" />
+          <file name="ControllerComponent.compmeta" id="EIP_Maste~Controller~0000.compmeta" />
+          <folder name="Generic_Adapter_Device">
+            <file name="b3014617-3be3-47ef-9367-66249b781b3c.ds" id="Generic_A~b3014617-3~0000.ds" />
+          </folder>
+        </folder>
+        <folder name="ETHERCAT_Master">
+          <file name="57539a58-30c8-4561-bc70-a02601a76d90.L7_ecat_ETHERCAT_Master.station" id="ETHERCAT_~57539a58-3~0000.station" />
+          <folder name="SGDXS_Servopack_100V_200V6">
+            <file name="2cd84da4-af73-4a55-b59d-cac7d4267d99.ds" id="SGDXS_Ser~2cd84da4-a~0000.ds" />
+            <file name="2cd84da4-af73-4a55-b59d-cac7d4267d99_ETHERCAT_Slave.station" id="SGDXS_Ser~2cd84da4-a~0001.station" />
+            <file name="ServoDriveParameters.drpar" id="SGDXS_Ser~ServoDrive~0002.drpar" />
+            <file name="Device.motion" id="SGDXS_Servopa~Device~0002.motion" />
+          </folder>
+          <folder name="SGDXS_Servopack_100V_200V5">
+            <file name="ee4d3dea-9fab-4868-a459-8446dd358208.ds" id="SGDXS_Ser~ee4d3dea-9~0000.ds" />
+            <file name="ee4d3dea-9fab-4868-a459-8446dd358208_ETHERCAT_Slave.station" id="SGDXS_Ser~ee4d3dea-9~0001.station" />
+            <file name="ServoDriveParameters.drpar" id="SGDXS_Ser~ServoDrive~0003.drpar" />
+            <file name="Device.motion" id="SGDXS_Servopa~Device~0003.motion" />
+          </folder>
+          <folder name="SGDXS_Servopack_100V_200V4">
+            <file name="4f536a8f-4b6f-412f-9783-7676317a6c1f.ds" id="SGDXS_Ser~4f536a8f-4~0000.ds" />
+            <file name="4f536a8f-4b6f-412f-9783-7676317a6c1f_ETHERCAT_Slave.station" id="SGDXS_Ser~4f536a8f-4~0001.station" />
+            <file name="ServoDriveParameters.drpar" id="SGDXS_Ser~ServoDrive~0004.drpar" />
+            <file name="Device.motion" id="SGDXS_Servopa~Device~0004.motion" />
+          </folder>
+          <folder name="SGDXS_Servopack_100V_200V3">
+            <file name="ca23927e-675b-44c0-9f79-b9f5ca408eb0.ds" id="SGDXS_Ser~ca23927e-6~0000.ds" />
+            <file name="ca23927e-675b-44c0-9f79-b9f5ca408eb0_ETHERCAT_Slave.station" id="SGDXS_Ser~ca23927e-6~0001.station" />
+            <file name="ServoDriveParameters.drpar" id="SGDXS_Ser~ServoDrive~0005.drpar" />
+            <file name="Device.motion" id="SGDXS_Servopa~Device~0005.motion" />
+          </folder>
+          <folder name="SGDXS_Servopack_100V_200V2">
+            <file name="82ea5d28-a285-4cf0-b7bb-e0ea3b2df7ae.ds" id="SGDXS_Ser~82ea5d28-a~0000.ds" />
+            <file name="82ea5d28-a285-4cf0-b7bb-e0ea3b2df7ae_ETHERCAT_Slave.station" id="SGDXS_Ser~82ea5d28-a~0001.station" />
+            <file name="ServoDriveParameters.drpar" id="SGDXS_Ser~ServoDrive~0006.drpar" />
+            <file name="Device.motion" id="SGDXS_Servopa~Device~0006.motion" />
+          </folder>
+          <folder name="SGDXS_Servopack_100V_200V1">
+            <file name="7fb9173b-a93c-4915-9072-b021291b2c5d.ds" id="SGDXS_Ser~7fb9173b-a~0000.ds" />
+            <file name="7fb9173b-a93c-4915-9072-b021291b2c5d_ETHERCAT_Slave.station" id="SGDXS_Ser~7fb9173b-a~0001.station" />
+            <file name="ServoDriveParameters.drpar" id="SGDXS_Ser~ServoDrive~0007.drpar" />
+            <file name="Device.motion" id="SGDXS_Servopa~Device~0007.motion" />
+          </folder>
+          <folder name="SGDXS_Servopack_100V_200V">
+            <file name="a8800561-73e7-47b4-a406-2bad2a1037d2.ds" id="SGDXS_Ser~a8800561-7~0000.ds" />
+            <file name="a8800561-73e7-47b4-a406-2bad2a1037d2_ETHERCAT_Slave.station" id="SGDXS_Ser~a8800561-7~0001.station" />
+            <file name="ServoDriveParameters.drpar" id="SGDXS_Ser~ServoDrive~0008.drpar" />
+            <file name="Device.motion" id="SGDXS_Servopa~Device~0008.motion" />
+          </folder>
+        </folder>
+        <folder name="FMK_Master">
+          <file name="Arp.Services.FMK.acf.config" id="FMK_Maste~Arp.Servic~0000.config" />
+          <file name="Arp.Services.FMK.libmeta" id="FMK_Maste~Arp.Servic~0001.libmeta" />
+          <file name="ControllerComponent.compmeta" id="FMK_Maste~Controller~0000.compmeta" />
+        </folder>
+        <folder name="MotionGroups_Master">
+          <file name="57539a58-30c8-4561-bc70-a02601a76d90.L7_mcg_MotionGroups_Master.station" id="MotionGro~57539a58-3~0000.station" />
+          <folder name="Locally_Hosted_Group">
+            <file name="46bd6c36-33f1-429f-9c2b-a273e464ac7e.ds" id="Locally_H~46bd6c36-3~0000.ds" />
+            <file name="Slave.mgl" id="Locally_Hosted~Slave~0000.mgl" />
+            <file name="Slave.mech" id="Locally_Hosted~Slave~0001.mech" />
+            <file name="Slave.lim" id="Locally_Hosted~Slave~0002.lim" />
+          </folder>
+        </folder>
+        <folder name="PLCnext">
+          <file name="EsmConfiguration.esmc" id="PLCnext~EsmConfigura~0000.esmc" />
+        </folder>
+        <folder name="PN_Master">
+          <file name="57539a58-30c8-4561-bc70-a02601a76d90.L7_4_PN_Master.station" id="PN_Master~57539a58-3~0000.station" />
+          <file name="Arp.Io.Pn.acf.config" id="PN_Master~Arp.Io.Pn.~0000.config" />
+          <file name="Arp.Io.Pn.libmeta" id="PN_Master~Arp.Io.Pn~0000.libmeta" />
+          <file name="ControllerComponent.compmeta" id="PN_Master~Controller~0000.compmeta" />
+        </folder>
+        <folder name="RES_9744F38493744A68ADA88550937D3A0E">
+          <file name="Arp.Services.SpnsProxy.compmeta" id="RES_9744F~Arp.Servic~0000.compmeta" />
+          <file name="DataList.dlr4svar" id="RES_9744F38~DataList~0000.dlr4svar" />
+          <file name="IOConfiguration.ioc" id="RES_9744F~IOConfigur~0000.ioc" />
+          <file name="ResourceSettings.set" id="RES_9744F~ResourceSe~0000.set" />
+          <file name="SpnsProxy.acf.config" id="RES_9744F~SpnsProxy.~0000.config" />
+          <file name="SpnsProxy.libmeta" id="RES_9744F3~SpnsProxy~0000.libmeta" />
+          <file name="SpnsProxyProgram.progmeta" id="RES_9744F~SpnsProxyP~0000.progmeta" />
+        </folder>
+        <folder name="RES_DC35EA2F0B2344C3814B4194CB6414CB">
+          <file name="Arp.Plc.Eclr.acf.config" id="RES_DC35E~Arp.Plc.Ec~0000.config" />
+          <file name="Arp.Plc.Eclr.libmeta" id="RES_DC35E~Arp.Plc.Ec~0001.libmeta" />
+          <file name="DataList.dlr4var" id="RES_DC35EA2~DataList~0000.dlr4var" />
+          <file name="EclrComponent.compmeta" id="RES_DC35E~EclrCompon~0000.compmeta" />
+          <file name="GlobalVariables.var" id="RES_DC35E~GlobalVari~0000.var" />
+          <file name="IOConfiguration.ioc" id="RES_DC35E~IOConfigur~0000.ioc" />
+          <file name="ResourceSettings.set" id="RES_DC35E~ResourceSe~0000.set" />
+        </folder>
+        <folder name="SliceBus_Master">
+          <file name="57539a58-30c8-4561-bc70-a02601a76d90.L7_SliceBus_SliceBus_Master.station" id="SliceBus_~57539a58-3~0000.station" />
+          <file name="Arp.Io.SliceBus.acf.config" id="SliceBus_~Arp.Io.Sli~0000.config" />
+          <file name="Arp.Io.SliceBus.ControllerComponent.compmeta" id="SliceBus_~Arp.Io.Sli~0001.compmeta" />
+          <file name="Arp.Io.SliceBus.libmeta" id="SliceBus_~Arp.Io.Sli~0002.libmeta" />
+          <folder name="DI_8xDC24V_(021-1BF00)">
+            <file name="3b698719-e2f9-4510-8fa4-05bd3c838361.ds" id="DI_8xDC24~3b698719-e~0000.ds" />
+          </folder>
+          <folder name="DO_8xDC24V_0_5A_(022-1BF00)">
+            <file name="c12dbc27-768c-4083-906c-75cd3757a4b4.ds" id="DO_8xDC24~c12dbc27-7~0000.ds" />
+          </folder>
+        </folder>
+        <folder name="YasHmi_Master">
+          <file name="57539a58-30c8-4561-bc70-a02601a76d90.L7_yashmi_YasHmi_Master.station" id="YasHmi_Ma~57539a58-3~0000.station" />
+          <file name="Arp.Plc.Ehmi.acf.config" id="YasHmi_Ma~Arp.Plc.Eh~0000.config" />
+          <file name="Arp.Plc.Ehmi.libmeta" id="YasHmi_Ma~Arp.Plc.Eh~0001.libmeta" />
+          <file name="DataList.dlr4yashmi" id="YasHmi_Mast~DataList~0000.dlr4yashmi" />
+          <file name="EhmiComponent.compmeta" id="YasHmi_Ma~EhmiCompon~0000.compmeta" />
+        </folder>
+        <folder name="MotionAxes_Master">
+          <folder name="ServoNet_Axis">
+            <file name="d6812c47-b0a4-4d3e-806a-d5922c1fa936.ds" id="ServoNet_~d6812c47-b~0000.ds" />
+            <file name="Slave.masop" id="ServoNet_Axis~Slave~0000.masop" />
+            <file name="Slave.masfc" id="ServoNet_Axis~Slave~0001.masfc" />
+          </folder>
+          <folder name="ServoNet_Axis1">
+            <file name="9c41ac9b-0eb1-4985-b780-c4b7b505dc48.ds" id="ServoNet_~9c41ac9b-0~0000.ds" />
+            <file name="Slave.masop" id="ServoNet_Axis1~Slave~000g.masop" />
+            <file name="Slave.masfc" id="ServoNet_Axis1~Slave~000h.masfc" />
+          </folder>
+          <folder name="ServoNet_Axis2">
+            <file name="52679911-7d3b-40ae-b3e2-df867efff740.ds" id="ServoNet_~52679911-7~0000.ds" />
+            <file name="Slave.masop" id="ServoNet_Axis2~Slave~0000.masop" />
+            <file name="Slave.masfc" id="ServoNet_Axis2~Slave~0001.masfc" />
+          </folder>
+          <folder name="ServoNet_Axis3">
+            <file name="6c85453a-c26b-48bb-b561-d2cf6aba7f9a.ds" id="ServoNet_~6c85453a-c~0000.ds" />
+            <file name="Slave.masop" id="ServoNet_Axis3~Slave~0000.masop" />
+            <file name="Slave.masfc" id="ServoNet_Axis3~Slave~0001.masfc" />
+          </folder>
+          <folder name="ServoNet_Axis5">
+            <file name="4172cff6-e7b9-4ef8-aea6-55fc3e218872.ds" id="ServoNet_~4172cff6-e~0000.ds" />
+            <file name="Slave.masop" id="ServoNet_Axis5~Slave~0000.masop" />
+            <file name="Slave.masfc" id="ServoNet_Axis5~Slave~0001.masfc" />
+          </folder>
+          <folder name="ServoNet_Axis6">
+            <file name="0127e860-b38c-48be-aab5-e90bc67120f5.ds" id="ServoNet_~0127e860-b~0000.ds" />
+            <file name="Slave.masop" id="ServoNet_Axis6~Slave~0000.masop" />
+            <file name="Slave.masfc" id="ServoNet_Axis6~Slave~0001.masfc" />
+          </folder>
+          <folder name="Virtual_Axis">
+            <file name="9dcdbc86-d96a-4f55-a845-d8c3c4661b88.ds" id="Virtual_A~9dcdbc86-d~0000.ds" />
+            <file name="Slave.masop" id="Virtual_Axis~Slave~0000.masop" />
+          </folder>
+        </folder>
+      </folder>
+    </folder>
+    <folder name="Logical Elements">
+      <file name="DataTypes.dt" id="Logical El~DataTypes~0000.dt" />
+      <file name="GeneratedDataTypes.dt" id="Logical E~GeneratedD~0000.dt" />
+      <file name="DT_Axi.dt" id="Logical Eleme~DT_Axi~0000.dt" />
+      <file name="DT_Axis.dt" id="Logical Elem~DT_Axis~0000.dt" />
+      <file name="DT_Group.dt" id="Logical Ele~DT_Group~0000.dt" />
+      <file name="DT_Machine.dt" id="Logical E~DT_Machine~0000.dt" />
+      <file name="DT_YaskawaErrorID.dt" id="Logical E~DT_Yaskawa~0000.dt" />
+      <file name="dtLibParamSDO.dt" id="Logical E~dtLibParam~0000.dt" />
+      <file name="YTTS_ErrorID.dt" id="Logical E~YTTS_Error~0000.dt" />
+      <file name="DT_SensoPart.dt" id="Logical E~DT_SensoPa~0000.dt" />
+      <file name="DT_HMI.dt" id="Logical Eleme~DT_HMI~0000.dt" />
+      <folder name="HelpTemplate">
+        <file name="collapse_toggle.png" id="HelpTempl~collapse_t~0000.png" />
+        <file name="image.png" id="HelpTemplate~image~0000.png" />
+        <file name="Styles.css" id="HelpTemplate~Styles~0000.css" />
+        <file name="TemplateFunction.htm" id="HelpTempl~TemplateFu~0000.htm" />
+        <file name="TemplateFunctionBlock.htm" id="HelpTempl~TemplateFu~0001.htm" />
+        <file name="TemplateOverview.htm" id="HelpTempl~TemplateOv~0000.htm" />
+      </folder>
+      <folder name="CHANGELOG.pou">
+        <file name="Metadata.meta" id="CHANGELOG.p~Metadata~0000.meta" />
+        <file name="Variables.var" id="CHANGELOG.~Variables~0000.var" />
+        <file name="VersionHistory.usermeta" id="CHANGELOG~VersionHis~0000.usermeta" />
+        <file name="Description.html" id="CHANGELOG~Descriptio~0000.html" />
+        <file name="Description.rtf" id="CHANGELOG~Descriptio~0001.rtf" />
+        <file name="User.locres" id="CHANGELOG.pou~User~0000.locres" />
+        <file name="Instructions.st" id="CHANGELOG~Instructio~0000.st" />
+      </folder>
+      <folder name="Cyclic">
+        <folder name="HMI.pou">
+          <file name="Description.html" id="HMI.pou~Description~0000.html" />
+          <file name="Description.rtf" id="HMI.pou~Description~0001.rtf" />
+          <file name="Metadata.meta" id="HMI.pou~Metadata~0000.meta" />
+          <file name="User.locres" id="HMI.pou~User~0000.locres" />
+          <file name="Variables.var" id="HMI.pou~Variables~0000.var" />
+          <file name="Variables.var.locres" id="HMI.pou~Variables.va~0000.locres" />
+          <file name="VersionHistory.usermeta" id="HMI.pou~VersionHisto~0000.usermeta" />
+          <file name="Code.st" id="HMI.pou~Code~0000.st" />
+        </folder>
+        <folder name="IO.pou">
+          <file name="Description.html" id="IO.pou~Description~0000.html" />
+          <file name="Description.rtf" id="IO.pou~Description~0001.rtf" />
+          <file name="Metadata.meta" id="IO.pou~Metadata~0000.meta" />
+          <file name="User.locres" id="IO.pou~User~0000.locres" />
+          <file name="Variables.var" id="IO.pou~Variables~0000.var" />
+          <file name="Variables.var.locres" id="IO.pou~Variables.var~0000.locres" />
+          <file name="VersionHistory.usermeta" id="IO.pou~VersionHistor~0000.usermeta" />
+        </folder>
+        <folder name="Main.pou">
+          <file name="Description.html" id="Main.pou~Description~0000.html" />
+          <file name="Description.rtf" id="Main.pou~Description~0001.rtf" />
+          <file name="Metadata.meta" id="Main.pou~Metadata~0000.meta" />
+          <file name="User.locres" id="Main.pou~User~0000.locres" />
+          <file name="Variables.var" id="Main.pou~Variables~0000.var" />
+          <file name="Variables.var.locres" id="Main.pou~Variables.v~0000.locres" />
+          <file name="VersionHistory.usermeta" id="Main.pou~VersionHist~0000.usermeta" />
+          <file name="Code.st" id="Main.pou~Code~0000.st" />
+        </folder>
+        <folder name="Auto_AXES.pou">
+          <file name="Metadata.meta" id="Auto_AXES.p~Metadata~0000.meta" />
+          <file name="Variables.var" id="Auto_AXES.~Variables~0000.var" />
+          <file name="VersionHistory.usermeta" id="Auto_AXES~VersionHis~0000.usermeta" />
+          <file name="Description.html" id="Auto_AXES~Descriptio~0000.html" />
+          <file name="Description.rtf" id="Auto_AXES~Descriptio~0001.rtf" />
+          <file name="Variables.var.locres" id="Auto_AXES~Variables.~0000.locres" />
+          <file name="Code1.st" id="Auto_AXES.pou~Code1~0000.st" />
+          <file name="MOTION.st" id="Auto_AXES.pou~MOTION~0000.st" />
+          <file name="User.locres" id="Auto_AXES.pou~User~0000.locres" />
+        </folder>
+        <folder name="RebootAndReset.pou">
+          <file name="Metadata.meta" id="RebootAndRe~Metadata~0000.meta" />
+          <file name="Variables.var" id="RebootAndR~Variables~0000.var" />
+          <file name="VersionHistory.usermeta" id="RebootAnd~VersionHis~0000.usermeta" />
+          <file name="Description.html" id="RebootAnd~Descriptio~0000.html" />
+          <file name="Description.rtf" id="RebootAnd~Descriptio~0001.rtf" />
+          <file name="Variables.var.locres" id="RebootAnd~Variables.~0000.locres" />
+          <file name="User.locres" id="RebootAndReset.~User~0000.locres" />
+          <file name="Code.st" id="RebootAndReset.~Code~0000.st" />
+        </folder>
+        <folder name="PickPlaceManager.pou">
+          <file name="Metadata.meta" id="PickPlaceMa~Metadata~0000.meta" />
+          <file name="Variables.var" id="PickPlaceM~Variables~0000.var" />
+          <file name="VersionHistory.usermeta" id="PickPlace~VersionHis~0000.usermeta" />
+          <file name="Description.html" id="PickPlace~Descriptio~0000.html" />
+          <file name="Description.rtf" id="PickPlace~Descriptio~0001.rtf" />
+          <file name="Variables.var.locres" id="PickPlace~Variables.~0000.locres" />
+          <file name="User.locres" id="PickPlaceManage~User~0000.locres" />
+          <file name="Code.st" id="PickPlaceManage~Code~0000.st" />
+        </folder>
+        <folder name="VisionManager.pou">
+          <file name="Metadata.meta" id="VisionManag~Metadata~0000.meta" />
+          <file name="Variables.var" id="VisionMana~Variables~0000.var" />
+          <file name="VersionHistory.usermeta" id="VisionMan~VersionHis~0000.usermeta" />
+          <file name="Description.html" id="VisionMan~Descriptio~0000.html" />
+          <file name="Description.rtf" id="VisionMan~Descriptio~0001.rtf" />
+          <file name="Variables.var.locres" id="VisionMan~Variables.~0000.locres" />
+          <file name="User.locres" id="VisionManager.p~User~0000.locres" />
+          <file name="Code.st" id="VisionManager.p~Code~0000.st" />
+        </folder>
+      </folder>
+      <folder name="Initialize">
+        <folder name="InitColdStart.pou">
+          <file name="Description.html" id="InitColdS~Descriptio~0000.html" />
+          <file name="Description.rtf" id="InitColdS~Descriptio~0001.rtf" />
+          <file name="Metadata.meta" id="InitColdSta~Metadata~0000.meta" />
+          <file name="User.locres" id="InitColdStart.p~User~0000.locres" />
+          <file name="Variables.var" id="InitColdSt~Variables~0000.var" />
+          <file name="Variables.var.locres" id="InitColdS~Variables.~0000.locres" />
+          <file name="VersionHistory.usermeta" id="InitColdS~VersionHis~0000.usermeta" />
+          <file name="Code.st" id="InitColdStart.p~Code~0000.st" />
+        </folder>
+        <folder name="InitWarmStart.pou">
+          <file name="Description.html" id="InitWarmS~Descriptio~0000.html" />
+          <file name="Description.rtf" id="InitWarmS~Descriptio~0001.rtf" />
+          <file name="Metadata.meta" id="InitWarmSta~Metadata~0000.meta" />
+          <file name="User.locres" id="InitWarmStart.p~User~0000.locres" />
+          <file name="Variables.var" id="InitWarmSt~Variables~0000.var" />
+          <file name="Variables.var.locres" id="InitWarmS~Variables.~0000.locres" />
+          <file name="VersionHistory.usermeta" id="InitWarmS~VersionHis~0000.usermeta" />
+          <file name="Code.st" id="InitWarmStart.p~Code~0000.st" />
+        </folder>
+        <folder name="Init.pou">
+          <file name="Metadata.meta" id="Init.pou~Metadata~0000.meta" />
+          <file name="Variables.var" id="Init.pou~Variables~0000.var" />
+          <file name="VersionHistory.usermeta" id="Init.pou~VersionHist~0000.usermeta" />
+          <file name="Description.html" id="Init.pou~Description~0000.html" />
+          <file name="Description.rtf" id="Init.pou~Description~0001.rtf" />
+          <file name="Variables.var.locres" id="Init.pou~Variables.v~0000.locres" />
+          <file name="Code.st" id="Init.pou~Code~0000.st" />
+          <file name="Test.st" id="Init.pou~Test~0000.st" />
+          <file name="User.locres" id="Init.pou~User~0000.locres" />
+        </folder>
+      </folder>
+      <folder name="Machine">
+        <folder name="FB_MachineController.pou">
+          <file name="Variables.var.locres" id="FB_Machin~Variables.~0000.locres" />
+          <file name="Metadata.meta" id="FB_MachineC~Metadata~0000.meta" />
+          <file name="Variables.var" id="FB_Machine~Variables~0000.var" />
+          <file name="VersionHistory.usermeta" id="FB_Machin~VersionHis~0000.usermeta" />
+          <file name="Description.html" id="FB_Machin~Descriptio~0000.html" />
+          <file name="Description.rtf" id="FB_Machin~Descriptio~0001.rtf" />
+          <file name="FB_Instances.st" id="FB_Machin~FB_Instanc~0000.st" />
+          <file name="Setting_AXES.st" id="FB_Machin~Setting_AX~0000.st" />
+          <file name="STATE_MACHINE.st" id="FB_Machin~STATE_MACH~0000.st" />
+          <file name="User.locres" id="FB_MachineContr~User~0000.locres" />
+          <file name="Setting_DELTA.st" id="FB_Machin~Setting_DE~0000.st" />
+          <folder name="HandleIdleState.method">
+            <file name="Metadata.meta" id="HandleIdleS~Metadata~0000.meta" />
+            <file name="Variables.var" id="HandleIdle~Variables~0000.var" />
+            <file name="Code.st" id="HandleIdleState~Code~0000.st" />
+          </folder>
+          <folder name="HandlePowerUpState.method">
+            <file name="Metadata.meta" id="HandlePower~Metadata~0000.meta" />
+            <file name="Variables.var" id="HandlePowe~Variables~0000.var" />
+            <file name="Code.st" id="HandlePowerUpSt~Code~0000.st" />
+          </folder>
+          <folder name="HandleHomingState.method">
+            <file name="Metadata.meta" id="HandleHomin~Metadata~0000.meta" />
+            <file name="Variables.var" id="HandleHomi~Variables~0000.var" />
+            <file name="Code.st" id="HandleHomingSta~Code~0000.st" />
+          </folder>
+          <folder name="HandleCommissioningState.method">
+            <file name="Metadata.meta" id="HandleCommi~Metadata~0000.meta" />
+            <file name="Variables.var" id="HandleComm~Variables~0000.var" />
+            <file name="Code.st" id="HandleCommissio~Code~0000.st" />
+          </folder>
+          <folder name="HandleStoppingState.method">
+            <file name="Metadata.meta" id="HandleStopp~Metadata~0000.meta" />
+            <file name="Variables.var" id="HandleStop~Variables~0000.var" />
+            <file name="Code.st" id="HandleStoppingS~Code~0000.st" />
+          </folder>
+          <folder name="HandleUnpoweringState.method">
+            <file name="Metadata.meta" id="HandleUnpow~Metadata~0000.meta" />
+            <file name="Variables.var" id="HandleUnpo~Variables~0000.var" />
+            <file name="Code.st" id="HandleUnpowerin~Code~0000.st" />
+          </folder>
+          <folder name="HandleShutdownState.method">
+            <file name="Metadata.meta" id="HandleShutd~Metadata~0000.meta" />
+            <file name="Variables.var" id="HandleShut~Variables~0000.var" />
+            <file name="Code.st" id="HandleShutdownS~Code~0000.st" />
+          </folder>
+          <folder name="HandleErrorState.method">
+            <file name="Metadata.meta" id="HandleError~Metadata~0000.meta" />
+            <file name="Variables.var" id="HandleErro~Variables~0000.var" />
+            <file name="Code.st" id="HandleErrorStat~Code~0000.st" />
+          </folder>
+          <folder name="HandleAutomaticState.method">
+            <file name="Metadata.meta" id="HandleAutom~Metadata~0000.meta" />
+            <file name="Variables.var" id="HandleAuto~Variables~0000.var" />
+            <file name="Code.st" id="HandleAutomatic~Code~0000.st" />
+          </folder>
+          <folder name="HandleManualState.method">
+            <file name="Metadata.meta" id="HandleManua~Metadata~0000.meta" />
+            <file name="Variables.var" id="HandleManu~Variables~0000.var" />
+            <file name="Code.st" id="HandleManualSta~Code~0000.st" />
+          </folder>
+          <folder name="HandleTeachFrameState.method">
+            <file name="Metadata.meta" id="HandleTeach~Metadata~0000.meta" />
+            <file name="Variables.var" id="HandleTeac~Variables~0000.var" />
+            <file name="Code.st" id="HandleTeachFram~Code~0000.st" />
+          </folder>
+        </folder>
+        <folder name="Axis">
+          <folder name="FB_AxisController.pou">
+            <file name="Variables.var.locres" id="FB_AxisCo~Variables.~0000.locres" />
+            <file name="Metadata.meta" id="FB_AxisCont~Metadata~0000.meta" />
+            <file name="Variables.var" id="FB_AxisCon~Variables~0000.var" />
+            <file name="VersionHistory.usermeta" id="FB_AxisCo~VersionHis~0000.usermeta" />
+            <file name="Description.html" id="FB_AxisCo~Descriptio~0000.html" />
+            <file name="Description.rtf" id="FB_AxisCo~Descriptio~0001.rtf" />
+            <file name="FB_Instance.st" id="FB_AxisCo~FB_Instanc~0000.st" />
+            <file name="MAPPING_Input.st" id="FB_AxisCo~MAPPING_In~0000.st" />
+            <file name="READINGS.st" id="FB_AxisCont~READINGS~0000.st" />
+            <file name="TEST_Position.st" id="FB_AxisCo~TEST_Posit~0000.st" />
+            <file name="WRITE_Params.st" id="FB_AxisCo~WRITE_Para~0000.st" />
+            <file name="MOTION.st" id="FB_AxisContro~MOTION~0000.st" />
+            <file name="MAPPING_Out.st" id="FB_AxisCo~MAPPING_Ou~0000.st" />
+            <file name="User.locres" id="FB_AxisControll~User~0000.locres" />
+          </folder>
+          <folder name="FB_CamController.pou">
+            <file name="Metadata.meta" id="FB_CamContr~Metadata~0000.meta" />
+            <file name="Variables.var" id="FB_CamCont~Variables~0000.var" />
+            <file name="VersionHistory.usermeta" id="FB_CamCon~VersionHis~0000.usermeta" />
+            <file name="Description.html" id="FB_CamCon~Descriptio~0000.html" />
+            <file name="Description.rtf" id="FB_CamCon~Descriptio~0001.rtf" />
+            <file name="Variables.var.locres" id="FB_CamCon~Variables.~0000.locres" />
+            <file name="Code.st" id="FB_CamControlle~Code~0000.st" />
+            <file name="MOTION.st" id="FB_CamControl~MOTION~0000.st" />
+          </folder>
+          <folder name="libParamSDO.pou">
+            <file name="Metadata.meta" id="libParamSDO~Metadata~0000.meta" />
+            <file name="Variables.var" id="libParamSD~Variables~0000.var" />
+            <file name="VersionHistory.usermeta" id="libParamS~VersionHis~0000.usermeta" />
+            <file name="Description.html" id="libParamS~Descriptio~0000.html" />
+            <file name="Description.rtf" id="libParamS~Descriptio~0001.rtf" />
+            <file name="Variables.var.locres" id="libParamS~Variables.~0000.locres" />
+            <file name="Code.st" id="libParamSDO.pou~Code~0000.st" />
+          </folder>
+          <folder name="FB_VirtualMovement.pou">
+            <file name="Metadata.meta" id="FB_VirtualM~Metadata~0000.meta" />
+            <file name="Variables.var" id="FB_Virtual~Variables~0000.var" />
+            <file name="VersionHistory.usermeta" id="FB_Virtua~VersionHis~0000.usermeta" />
+            <file name="Description.html" id="FB_Virtua~Descriptio~0000.html" />
+            <file name="Description.rtf" id="FB_Virtua~Descriptio~0001.rtf" />
+            <file name="Variables.var.locres" id="FB_Virtua~Variables.~0000.locres" />
+            <file name="Code.st" id="FB_VirtualMovem~Code~0000.st" />
+            <file name="MOTION.st" id="FB_VirtualMov~MOTION~0000.st" />
+          </folder>
+        </folder>
+        <folder name="Group">
+          <folder name="FB_GroupController.pou">
+            <file name="Metadata.meta" id="FB_GroupCon~Metadata~0000.meta" />
+            <file name="Variables.var" id="FB_GroupCo~Variables~0000.var" />
+            <file name="VersionHistory.usermeta" id="FB_GroupC~VersionHis~0000.usermeta" />
+            <file name="Description.html" id="FB_GroupC~Descriptio~0000.html" />
+            <file name="Description.rtf" id="FB_GroupC~Descriptio~0001.rtf" />
+            <file name="Variables.var.locres" id="FB_GroupC~Variables.~0000.locres" />
+            <file name="FB_Instance.st" id="FB_GroupC~FB_Instanc~0000.st" />
+            <file name="MAPPING_Input.st" id="FB_GroupC~MAPPING_In~0000.st" />
+            <file name="TEST_Position.st" id="FB_GroupC~TEST_Posit~0000.st" />
+            <file name="RTN_TestPos.st" id="FB_GroupC~RTN_TestPo~0000.st" />
+            <file name="RTN_CheckAbsEncOffset.st" id="FB_GroupC~RTN_CheckA~0000.st" />
+            <file name="MOTION.st" id="FB_GroupContr~MOTION~0000.st" />
+            <file name="MAPPING_Output.st" id="FB_GroupC~MAPPING_Ou~0000.st" />
+            <file name="User.locres" id="FB_GroupControl~User~0000.locres" />
+          </folder>
+          <folder name="FB_Distribution.pou">
+            <file name="Metadata.meta" id="FB_Distribu~Metadata~0000.meta" />
+            <file name="Variables.var" id="FB_Distrib~Variables~0000.var" />
+            <file name="VersionHistory.usermeta" id="FB_Distri~VersionHis~0000.usermeta" />
+            <file name="Description.html" id="FB_Distri~Descriptio~0000.html" />
+            <file name="Description.rtf" id="FB_Distri~Descriptio~0001.rtf" />
+            <file name="Variables.var.locres" id="FB_Distri~Variables.~0000.locres" />
+            <file name="Distribution.st" id="FB_Distri~Distributi~0000.st" />
+            <file name="Instruction.st" id="FB_Distri~Instructio~0000.st" />
+            <file name="User.locres" id="FB_Distribution~User~0000.locres" />
+          </folder>
+          <folder name="FB_TeachFrame.pou">
+            <file name="Metadata.meta" id="FB_TeachFra~Metadata~0000.meta" />
+            <file name="Variables.var" id="FB_TeachFr~Variables~0000.var" />
+            <file name="VersionHistory.usermeta" id="FB_TeachF~VersionHis~0000.usermeta" />
+            <file name="Description.html" id="FB_TeachF~Descriptio~0000.html" />
+            <file name="Description.rtf" id="FB_TeachF~Descriptio~0001.rtf" />
+            <file name="Variables.var.locres" id="FB_TeachF~Variables.~0000.locres" />
+            <file name="User.locres" id="FB_TeachFrame.p~User~0000.locres" />
+            <file name="Code.st" id="FB_TeachFrame.p~Code~0000.st" />
+          </folder>
+          <folder name="FB_PickPlace_Sequencer1.pou">
+            <file name="Metadata.meta" id="FB_PickPlac~Metadata~0002.meta" />
+            <file name="Variables.var" id="FB_PickPla~Variables~0002.var" />
+            <file name="VersionHistory.usermeta" id="FB_PickPl~VersionHis~0002.usermeta" />
+            <file name="Description.html" id="FB_PickPl~Descriptio~0004.html" />
+            <file name="Description.rtf" id="FB_PickPl~Descriptio~0005.rtf" />
+            <file name="Variables.var.locres" id="FB_PickPl~Variables.~0002.locres" />
+            <file name="User.locres" id="FB_PickPlace_Se~User~0001.locres" />
+            <file name="Code.st" id="FB_PickPlace_Se~Code~0001.st" />
+            <file name="Instruction.st" id="FB_PickPl~Instructio~0002.st" />
+            <folder name="M_Driver_Motion_Cmd.method">
+              <file name="Metadata.meta" id="M_Driver_Mo~Metadata~0002.meta" />
+              <file name="Variables.var" id="M_Driver_M~Variables~0002.var" />
+              <file name="Code.st" id="M_Driver_Motion~Code~0002.st" />
+            </folder>
+            <folder name="M_Driver_Motion_Check.method">
+              <file name="Metadata.meta" id="M_Driver_Mo~Metadata~0003.meta" />
+              <file name="Variables.var" id="M_Driver_M~Variables~0003.var" />
+              <file name="Code.st" id="M_Driver_Motion~Code~0003.st" />
+            </folder>
+            <folder name="M_Step_ApproachPick_Tracking.method">
+              <file name="Metadata.meta" id="M_Step_Appr~Metadata~0002.meta" />
+              <file name="Variables.var" id="M_Step_App~Variables~0002.var" />
+              <file name="Code.st" id="M_Step_Approach~Code~0002.st" />
+            </folder>
+            <folder name="M_ResetMachine.method">
+              <file name="Metadata.meta" id="M_ResetMach~Metadata~0002.meta" />
+              <file name="Variables.var" id="M_ResetMac~Variables~0002.var" />
+              <file name="Code.st" id="M_ResetMachine.~Code~0002.st" />
+            </folder>
+            <folder name="M_ConfigSequence_Run.method">
+              <file name="Metadata.meta" id="M_ConfigSeq~Metadata~0002.meta" />
+              <file name="Variables.var" id="M_ConfigSe~Variables~0002.var" />
+              <file name="Code.st" id="M_ConfigSequenc~Code~0002.st" />
+            </folder>
+            <folder name="M_ConfigSequence_Parking.method">
+              <file name="Metadata.meta" id="M_ConfigSeq~Metadata~0003.meta" />
+              <file name="Variables.var" id="M_ConfigSe~Variables~0003.var" />
+              <file name="Code.st" id="M_ConfigSequenc~Code~0003.st" />
+            </folder>
+            <folder name="AddStep.method">
+              <file name="Metadata.meta" id="AddStep.met~Metadata~0001.meta" />
+              <file name="Variables.var" id="AddStep.me~Variables~0001.var" />
+              <file name="Code.st" id="AddStep.method~Code~0001.st" />
+            </folder>
+            <folder name="M_Dispatcher.method">
+              <file name="Metadata.meta" id="M_Dispatche~Metadata~0001.meta" />
+              <file name="Variables.var" id="M_Dispatch~Variables~0001.var" />
+              <file name="Code.st" id="M_Dispatcher.me~Code~0001.st" />
+            </folder>
+            <folder name="M_Step_Initialize.method">
+              <file name="Metadata.meta" id="M_Step_Init~Metadata~0003.meta" />
+              <file name="Variables.var" id="M_Step_Ini~Variables~0003.var" />
+              <file name="Code.st" id="M_Step_Initiali~Code~0002.st" />
+            </folder>
+            <folder name="M_Step_CheckPickLimits.method">
+              <file name="Metadata.meta" id="M_Step_Chec~Metadata~0002.meta" />
+              <file name="Variables.var" id="M_Step_Che~Variables~0002.var" />
+              <file name="Code.st" id="M_Step_CheckPic~Code~0001.st" />
+            </folder>
+            <folder name="M_Step_WaitForPickSync.method">
+              <file name="Metadata.meta" id="M_Step_Wait~Metadata~0004.meta" />
+              <file name="Variables.var" id="M_Step_Wai~Variables~0004.var" />
+              <file name="Code.st" id="M_Step_WaitForP~Code~0002.st" />
+            </folder>
+            <folder name="M_Step_CalcPickOffset.method">
+              <file name="Code.st" id="M_Step_CalcPick~Code~0001.st" />
+              <file name="Metadata.meta" id="M_Step_Calc~Metadata~0001.meta" />
+              <file name="Variables.var" id="M_Step_Cal~Variables~0001.var" />
+            </folder>
+            <folder name="M_Step_SetPickFrame_Tracking.method">
+              <file name="Code.st" id="M_Step_SetPickF~Code~0001.st" />
+              <file name="Metadata.meta" id="M_Step_SetP~Metadata~0004.meta" />
+              <file name="Variables.var" id="M_Step_Set~Variables~0004.var" />
+            </folder>
+            <folder name="M_Step_ConvertPickToCartesian_Tracking.method">
+              <file name="Code.st" id="M_Step_ConvertP~Code~0002.st" />
+              <file name="Metadata.meta" id="M_Step_Conv~Metadata~0002.meta" />
+              <file name="Variables.var" id="M_Step_Con~Variables~0002.var" />
+            </folder>
+            <folder name="M_Step_SetPickOffsetAndPCS_Tracking.method">
+              <file name="Code.st" id="M_Step_SetPickO~Code~0001.st" />
+              <file name="Metadata.meta" id="M_Step_SetP~Metadata~0005.meta" />
+              <file name="Variables.var" id="M_Step_Set~Variables~0005.var" />
+            </folder>
+            <folder name="M_Step_EnablePickTracking.method">
+              <file name="Code.st" id="M_Step_EnablePi~Code~0001.st" />
+              <file name="Metadata.meta" id="M_Step_Enab~Metadata~0002.meta" />
+              <file name="Variables.var" id="M_Step_Ena~Variables~0002.var" />
+            </folder>
+            <folder name="M_Step_DescendAndPick.method">
+              <file name="Code.st" id="M_Step_DescendA~Code~0002.st" />
+              <file name="Metadata.meta" id="M_Step_Desc~Metadata~0002.meta" />
+              <file name="Variables.var" id="M_Step_Des~Variables~0002.var" />
+            </folder>
+            <folder name="M_Step_WaitAfterPick_Tracking.method">
+              <file name="Code.st" id="M_Step_WaitAfte~Code~0002.st" />
+              <file name="Metadata.meta" id="M_Step_Wait~Metadata~0005.meta" />
+              <file name="Variables.var" id="M_Step_Wai~Variables~0005.var" />
+            </folder>
+            <folder name="M_Step_AscendAfterPick.method">
+              <file name="Code.st" id="M_Step_AscendAf~Code~0002.st" />
+              <file name="Metadata.meta" id="M_Step_Asce~Metadata~0002.meta" />
+              <file name="Variables.var" id="M_Step_Asc~Variables~0002.var" />
+            </folder>
+            <folder name="M_Step_MoveToParking_AfterPick.method">
+              <file name="Code.st" id="M_Step_MoveToPa~Code~0003.st" />
+              <file name="Metadata.meta" id="M_Step_Move~Metadata~0003.meta" />
+              <file name="Variables.var" id="M_Step_Mov~Variables~0003.var" />
+            </folder>
+            <folder name="M_Step_SelectNextProduct_Pick.method">
+              <file name="Code.st" id="M_Step_SelectNe~Code~0001.st" />
+              <file name="Metadata.meta" id="M_Step_Sele~Metadata~0001.meta" />
+              <file name="Variables.var" id="M_Step_Sel~Variables~0001.var" />
+            </folder>
+            <folder name="M_Step_InitializePlace.method">
+              <file name="Code.st" id="M_Step_Initiali~Code~0003.st" />
+              <file name="Metadata.meta" id="M_Step_Init~Metadata~0004.meta" />
+              <file name="Variables.var" id="M_Step_Ini~Variables~0004.var" />
+            </folder>
+            <folder name="M_Step_CheckPlaceLimits.method">
+              <file name="Code.st" id="M_Step_CheckPla~Code~0001.st" />
+              <file name="Metadata.meta" id="M_Step_Chec~Metadata~0003.meta" />
+              <file name="Variables.var" id="M_Step_Che~Variables~0003.var" />
+            </folder>
+            <folder name="M_Step_SetPlaceFrame_Tracking.method">
+              <file name="Code.st" id="M_Step_SetPlace~Code~0002.st" />
+              <file name="Metadata.meta" id="M_Step_SetP~Metadata~0006.meta" />
+              <file name="Variables.var" id="M_Step_Set~Variables~0006.var" />
+            </folder>
+            <folder name="M_Step_ConvertPlaceToCartesian_Tracking.method">
+              <file name="Code.st" id="M_Step_ConvertP~Code~0003.st" />
+              <file name="Metadata.meta" id="M_Step_Conv~Metadata~0003.meta" />
+              <file name="Variables.var" id="M_Step_Con~Variables~0003.var" />
+            </folder>
+            <folder name="M_Step_SetPlaceOffsetAndPCS_Tracking.method">
+              <file name="Code.st" id="M_Step_SetPlace~Code~0003.st" />
+              <file name="Metadata.meta" id="M_Step_SetP~Metadata~0007.meta" />
+              <file name="Variables.var" id="M_Step_Set~Variables~0007.var" />
+            </folder>
+            <folder name="M_Step_EnablePlaceTracking.method">
+              <file name="Code.st" id="M_Step_EnablePl~Code~0001.st" />
+              <file name="Metadata.meta" id="M_Step_Enab~Metadata~0003.meta" />
+              <file name="Variables.var" id="M_Step_Ena~Variables~0003.var" />
+            </folder>
+            <folder name="M_Step_ApproachPlace_Tracking.method">
+              <file name="Code.st" id="M_Step_Approach~Code~0003.st" />
+              <file name="Metadata.meta" id="M_Step_Appr~Metadata~0003.meta" />
+              <file name="Variables.var" id="M_Step_App~Variables~0003.var" />
+            </folder>
+            <folder name="M_Step_WaitForPlaceSync.method">
+              <file name="Code.st" id="M_Step_WaitForP~Code~0003.st" />
+              <file name="Metadata.meta" id="M_Step_Wait~Metadata~0006.meta" />
+              <file name="Variables.var" id="M_Step_Wai~Variables~0006.var" />
+            </folder>
+            <folder name="M_Step_DescendAndPlace.method">
+              <file name="Code.st" id="M_Step_DescendA~Code~0003.st" />
+              <file name="Metadata.meta" id="M_Step_Desc~Metadata~0003.meta" />
+              <file name="Variables.var" id="M_Step_Des~Variables~0003.var" />
+            </folder>
+            <folder name="M_Step_WaitAfterPlace_Tracking.method">
+              <file name="Code.st" id="M_Step_WaitAfte~Code~0003.st" />
+              <file name="Metadata.meta" id="M_Step_Wait~Metadata~0007.meta" />
+              <file name="Variables.var" id="M_Step_Wai~Variables~0007.var" />
+            </folder>
+            <folder name="M_Step_AscendAfterPlace.method">
+              <file name="Code.st" id="M_Step_AscendAf~Code~0003.st" />
+              <file name="Metadata.meta" id="M_Step_Asce~Metadata~0003.meta" />
+              <file name="Variables.var" id="M_Step_Asc~Variables~0003.var" />
+            </folder>
+            <folder name="M_Step_MoveToParking_AfterPlace.method">
+              <file name="Code.st" id="M_Step_MoveToPa~Code~0004.st" />
+              <file name="Metadata.meta" id="M_Step_Move~Metadata~0004.meta" />
+              <file name="Variables.var" id="M_Step_Mov~Variables~0004.var" />
+            </folder>
+            <folder name="M_Step_CycleCompletitionAndChangeMode.method">
+              <file name="Code.st" id="M_Step_CycleCom~Code~0001.st" />
+              <file name="Metadata.meta" id="M_Step_Cycl~Metadata~0001.meta" />
+              <file name="Variables.var" id="M_Step_Cyc~Variables~0001.var" />
+            </folder>
+            <folder name="M_Step_InitParking.method">
+              <file name="Code.st" id="M_Step_InitPark~Code~0001.st" />
+              <file name="Metadata.meta" id="M_Step_Init~Metadata~0005.meta" />
+              <file name="Variables.var" id="M_Step_Ini~Variables~0005.var" />
+            </folder>
+            <folder name="M_Step_MoveToParking_SafePosition.method">
+              <file name="Code.st" id="M_Step_MoveToPa~Code~0005.st" />
+              <file name="Metadata.meta" id="M_Step_Move~Metadata~0005.meta" />
+              <file name="Variables.var" id="M_Step_Mov~Variables~0005.var" />
+            </folder>
+            <folder name="M_Step_FinalParkingCompletition.method">
+              <file name="Code.st" id="M_Step_FinalPar~Code~0001.st" />
+              <file name="Metadata.meta" id="M_Step_Fina~Metadata~0001.meta" />
+              <file name="Variables.var" id="M_Step_Fin~Variables~0001.var" />
+            </folder>
+            <folder name="M_Step_Error.method">
+              <file name="Code.st" id="M_Step_Error.me~Code~0001.st" />
+              <file name="Metadata.meta" id="M_Step_Erro~Metadata~0001.meta" />
+              <file name="Variables.var" id="M_Step_Err~Variables~0001.var" />
+            </folder>
+            <folder name="M_Helper_FindStepIndex.method">
+              <file name="Code.st" id="M_Helper_FindSt~Code~0001.st" />
+              <file name="Metadata.meta" id="M_Helper_Fi~Metadata~0001.meta" />
+              <file name="Variables.var" id="M_Helper_F~Variables~0001.var" />
+            </folder>
+          </folder>
+        </folder>
+        <folder name="Error">
+          <folder name="FB_ErrorHandler_OLD.pou">
+            <file name="Variables.var.locres" id="FB_ErrorH~Variables.~0000.locres" />
+            <file name="Code.st" id="FB_ErrorHandler~Code~0000.st" />
+            <file name="collapse_toggle.png" id="FB_ErrorH~collapse_t~0000.png" />
+            <file name="Metadata.meta" id="FB_ErrorHan~Metadata~0000.meta" />
+            <file name="Variables.var" id="FB_ErrorHa~Variables~0000.var" />
+            <file name="VersionHistory.usermeta" id="FB_ErrorH~VersionHis~0000.usermeta" />
+            <file name="Description.html" id="FB_ErrorH~Descriptio~0000.html" />
+            <file name="Description.rtf" id="FB_ErrorH~Descriptio~0001.rtf" />
+            <file name="User.locres" id="FB_ErrorHandler~User~0000.locres" />
+            <folder name="AddUpdateError.method">
+              <file name="Metadata.meta" id="AddUpdateEr~Metadata~0000.meta" />
+              <file name="Variables.var" id="AddUpdateE~Variables~0000.var" />
+              <file name="Code.st" id="AddUpdateError.~Code~0000.st" />
+            </folder>
+            <folder name="FB_Init.method">
+              <file name="Metadata.meta" id="FB_Init.met~Metadata~0000.meta" />
+              <file name="Variables.var" id="FB_Init.me~Variables~0000.var" />
+              <file name="Code.st" id="FB_Init.method~Code~0000.st" />
+            </folder>
+            <folder name="Update.method">
+              <file name="Metadata.meta" id="Update.meth~Metadata~0000.meta" />
+              <file name="Variables.var" id="Update.met~Variables~0000.var" />
+              <file name="Code.st" id="Update.method~Code~0000.st" />
+            </folder>
+            <folder name="GetErrorMessage.method">
+              <file name="Metadata.meta" id="GetErrorMes~Metadata~0000.meta" />
+              <file name="Variables.var" id="GetErrorMe~Variables~0000.var" />
+              <file name="Code.st" id="GetErrorMessage~Code~0000.st" />
+            </folder>
+          </folder>
+          <folder name="FB_ErrorHandler.pou">
+            <file name="Variables.var.locres" id="FB_ErrorH~Variables.~0001.locres" />
+            <file name="Code.st" id="FB_ErrorHandler~Code~0001.st" />
+            <file name="collapse_toggle.png" id="FB_ErrorH~collapse_t~0001.png" />
+            <file name="Metadata.meta" id="FB_ErrorHan~Metadata~0001.meta" />
+            <file name="Variables.var" id="FB_ErrorHa~Variables~0001.var" />
+            <file name="VersionHistory.usermeta" id="FB_ErrorH~VersionHis~0001.usermeta" />
+            <file name="Description.html" id="FB_ErrorH~Descriptio~0002.html" />
+            <file name="Description.rtf" id="FB_ErrorH~Descriptio~0003.rtf" />
+            <file name="Resources.locreslst" id="FB_ErrorHa~Resources~0000.locreslst" />
+            <file name="User.locres" id="FB_ErrorHandler~User~0001.locres" />
+            <folder name="AddUpdateError.method">
+              <file name="Metadata.meta" id="AddUpdateEr~Metadata~0001.meta" />
+              <file name="Variables.var" id="AddUpdateE~Variables~0001.var" />
+              <file name="Code.st" id="AddUpdateError.~Code~0001.st" />
+            </folder>
+            <folder name="Update.method">
+              <file name="Metadata.meta" id="Update.meth~Metadata~0001.meta" />
+              <file name="Variables.var" id="Update.met~Variables~0001.var" />
+              <file name="Code.st" id="Update.method~Code~0001.st" />
+            </folder>
+            <folder name="GetErrorMessage.method">
+              <file name="Metadata.meta" id="GetErrorMes~Metadata~0001.meta" />
+              <file name="Variables.var" id="GetErrorMe~Variables~0001.var" />
+              <file name="Code.st" id="GetErrorMessage~Code~0001.st" />
+            </folder>
+            <folder name="LogEvent.method">
+              <file name="Metadata.meta" id="LogEvent.me~Metadata~0000.meta" />
+              <file name="Variables.var" id="LogEvent.m~Variables~0000.var" />
+              <file name="Code.st" id="LogEvent.method~Code~0000.st" />
+            </folder>
+            <folder name="ResetBufferAndCounters.method">
+              <file name="Metadata.meta" id="ResetBuffer~Metadata~0000.meta" />
+              <file name="Variables.var" id="ResetBuffe~Variables~0000.var" />
+              <file name="Code.st" id="ResetBufferAndC~Code~0000.st" />
+            </folder>
+            <folder name="RecalculateHighestSeverity.method">
+              <file name="Metadata.meta" id="Recalculate~Metadata~0000.meta" />
+              <file name="Variables.var" id="Recalculat~Variables~0000.var" />
+              <file name="Code.st" id="RecalculateHigh~Code~0000.st" />
+            </folder>
+            <folder name="ErrorHandlerInit.method">
+              <file name="Metadata.meta" id="ErrorHandle~Metadata~0000.meta" />
+              <file name="Variables.var" id="ErrorHandl~Variables~0000.var" />
+              <file name="Code.st" id="ErrorHandlerIni~Code~0000.st" />
+            </folder>
+          </folder>
+        </folder>
+        <folder name="Vision">
+          <folder name="FB_VisorDriver.pou">
+            <file name="Metadata.meta" id="FB_VisorDri~Metadata~0000.meta" />
+            <file name="Variables.var" id="FB_VisorDr~Variables~0000.var" />
+            <file name="VersionHistory.usermeta" id="FB_VisorD~VersionHis~0000.usermeta" />
+            <file name="Description.html" id="FB_VisorD~Descriptio~0000.html" />
+            <file name="Description.rtf" id="FB_VisorD~Descriptio~0001.rtf" />
+            <file name="Variables.var.locres" id="FB_VisorD~Variables.~0000.locres" />
+            <file name="User.locres" id="FB_VisorDriver.~User~0000.locres" />
+            <file name="Code.st" id="FB_VisorDriver.~Code~0000.st" />
+            <folder name="MapInputs.method">
+              <file name="Metadata.meta" id="MapInputs.m~Metadata~0000.meta" />
+              <file name="Variables.var" id="MapInputs.~Variables~0000.var" />
+              <file name="Code.st" id="MapInputs.metho~Code~0000.st" />
+            </folder>
+            <folder name="MapOutputs.method">
+              <file name="Metadata.meta" id="MapOutputs.~Metadata~0000.meta" />
+              <file name="Variables.var" id="MapOutputs~Variables~0000.var" />
+              <file name="Code.st" id="MapOutputs.meth~Code~0000.st" />
+            </folder>
+          </folder>
+          <folder name="FB_VisionApplication.pou">
+            <file name="Metadata.meta" id="FB_VisionAp~Metadata~0000.meta" />
+            <file name="Variables.var" id="FB_VisionA~Variables~0000.var" />
+            <file name="VersionHistory.usermeta" id="FB_Vision~VersionHis~0000.usermeta" />
+            <file name="Description.html" id="FB_Vision~Descriptio~0000.html" />
+            <file name="Description.rtf" id="FB_Vision~Descriptio~0001.rtf" />
+            <file name="Variables.var.locres" id="FB_Vision~Variables.~0000.locres" />
+            <file name="User.locres" id="FB_VisionApplic~User~0000.locres" />
+            <file name="Code.st" id="FB_VisionApplic~Code~0000.st" />
+          </folder>
+        </folder>
+      </folder>
+      <folder name="Utils">
+        <folder name="FC_BytesToReal.pou">
+          <file name="Metadata.meta" id="FC_BytesToR~Metadata~0000.meta" />
+          <file name="Variables.var" id="FC_BytesTo~Variables~0000.var" />
+          <file name="VersionHistory.usermeta" id="FC_BytesT~VersionHis~0000.usermeta" />
+          <file name="Description.html" id="FC_BytesT~Descriptio~0000.html" />
+          <file name="Description.rtf" id="FC_BytesT~Descriptio~0001.rtf" />
+          <file name="Code.st" id="FC_BytesToReal.~Code~0000.st" />
+          <file name="Resources.locreslst" id="FC_BytesTo~Resources~0000.locreslst" />
+          <file name="Variables.var.locres" id="FC_BytesT~Variables.~0000.locres" />
+          <file name="User.locres" id="FC_BytesToReal.~User~0000.locres" />
+        </folder>
+        <folder name="FC_BytesToInt.pou">
+          <file name="Metadata.meta" id="FC_BytesToI~Metadata~0000.meta" />
+          <file name="Variables.var" id="FC_BytesTo~Variables~0001.var" />
+          <file name="VersionHistory.usermeta" id="FC_BytesT~VersionHis~0001.usermeta" />
+          <file name="Description.html" id="FC_BytesT~Descriptio~0002.html" />
+          <file name="Description.rtf" id="FC_BytesT~Descriptio~0003.rtf" />
+          <file name="Code.st" id="FC_BytesToInt.p~Code~0000.st" />
+          <file name="Resources.locreslst" id="FC_BytesTo~Resources~0001.locreslst" />
+          <file name="Variables.var.locres" id="FC_BytesT~Variables.~0001.locres" />
+          <file name="User.locres" id="FC_BytesToInt.p~User~0000.locres" />
+        </folder>
+        <folder name="DEG_TO_RAD.pou">
+          <file name="Metadata.meta" id="DEG_TO_RAD.~Metadata~0000.meta" />
+          <file name="Variables.var" id="DEG_TO_RAD~Variables~0000.var" />
+          <file name="VersionHistory.usermeta" id="DEG_TO_RA~VersionHis~0000.usermeta" />
+          <file name="Description.html" id="DEG_TO_RA~Descriptio~0000.html" />
+          <file name="Description.rtf" id="DEG_TO_RA~Descriptio~0001.rtf" />
+          <file name="Code.st" id="DEG_TO_RAD.pou~Code~0000.st" />
+          <file name="User.locres" id="DEG_TO_RAD.pou~User~0000.locres" />
+          <file name="Variables.var.locres" id="DEG_TO_RA~Variables.~0000.locres" />
+        </folder>
+      </folder>
+    </folder>
+    <folder name="Watch Window">
+      <file name="Document.ww" id="Watch Windo~Document~0000.ww" />
+    </folder>
+    <folder name="Logic Analyzer">
+      <file name="Document.lga" id="Logic Analy~Document~0000.lga" />
+    </folder>
+    <folder name="RecycleBin">
+      <folder name="31437c4d-35fc-44a1-9d26-06fb7e735286">
+        <file name="31437c4d-35fc-44a1-9d26-06fb7e735286" id="31437c4d-~31437c4d-3~0000" />
+        <folder name="SGDXS_Servopack_100V_200V1">
+          <file name="Device.motion" id="SGDXS_Servopa~Device~0000.motion" />
+          <file name="ServoDriveParameters.drpar" id="SGDXS_Ser~ServoDrive~0000.drpar" />
+          <file name="7342ad10-5c8b-4e55-9c32-f1fe8ac994ed_ETHERCAT_Slave.station" id="SGDXS_Ser~7342ad10-5~0000.station" />
+          <file name="7342ad10-5c8b-4e55-9c32-f1fe8ac994ed.ds" id="SGDXS_Ser~7342ad10-5~0001.ds" />
+        </folder>
+      </folder>
+      <folder name="8e6ef501-736b-4904-96e0-eaeccdd770af">
+        <file name="8e6ef501-736b-4904-96e0-eaeccdd770af" id="8e6ef501-~8e6ef501-7~0000" />
+        <folder name="SGDXS_Servopack_100V_200V">
+          <file name="Device.motion" id="SGDXS_Servopa~Device~0001.motion" />
+          <file name="ServoDriveParameters.drpar" id="SGDXS_Ser~ServoDrive~0001.drpar" />
+          <file name="a4bc8923-9ebb-484f-86bb-0f625aef522c_ETHERCAT_Slave.station" id="SGDXS_Ser~a4bc8923-9~0000.station" />
+          <file name="a4bc8923-9ebb-484f-86bb-0f625aef522c.ds" id="SGDXS_Ser~a4bc8923-9~0001.ds" />
+        </folder>
+      </folder>
+      <folder name="40e9b1fe-69d8-4e37-83a4-f48703efee74">
+        <file name="40e9b1fe-69d8-4e37-83a4-f48703efee74" id="40e9b1fe-~40e9b1fe-6~0000" />
+        <folder name="ServoNet_Axis7">
+          <file name="Slave.masconfig" id="ServoNet_Axis7~Slave~0000.masconfig" />
+          <file name="Slave.masop" id="ServoNet_Axis7~Slave~0001.masop" />
+          <file name="Slave.maslim" id="ServoNet_Axis7~Slave~0002.maslim" />
+          <file name="Slave.masfc" id="ServoNet_Axis7~Slave~0003.masfc" />
+          <file name="DataList.dlr4pd" id="ServoNet_Ax~DataList~0000.dlr4pd" />
+          <file name="f7d7bfcf-d018-4688-a001-ce657e6c280a.alrm" id="ServoNet_~f7d7bfcf-d~0000.alrm" />
+          <file name="f7d7bfcf-d018-4688-a001-ce657e6c280a.iprop" id="ServoNet_~f7d7bfcf-d~0001.iprop" />
+          <file name="f7d7bfcf-d018-4688-a001-ce657e6c280a.ds" id="ServoNet_~f7d7bfcf-d~0002.ds" />
+        </folder>
+      </folder>
+      <folder name="09146f19-c093-4760-b7e2-3d52cd802fd1">
+        <file name="09146f19-c093-4760-b7e2-3d52cd802fd1" id="09146f19-~09146f19-c~0000" />
+        <folder name="ServoNet_Axis8">
+          <file name="Slave.masconfig" id="ServoNet_Axis8~Slave~0000.masconfig" />
+          <file name="Slave.masop" id="ServoNet_Axis8~Slave~0001.masop" />
+          <file name="Slave.maslim" id="ServoNet_Axis8~Slave~0002.maslim" />
+          <file name="Slave.masfc" id="ServoNet_Axis8~Slave~0003.masfc" />
+          <file name="DataList.dlr4pd" id="ServoNet_Ax~DataList~0001.dlr4pd" />
+          <file name="742254a1-05c6-4abe-a5ce-c2e0bc994c5f.alrm" id="ServoNet_~742254a1-0~0000.alrm" />
+          <file name="742254a1-05c6-4abe-a5ce-c2e0bc994c5f.iprop" id="ServoNet_~742254a1-0~0001.iprop" />
+          <file name="742254a1-05c6-4abe-a5ce-c2e0bc994c5f.ds" id="ServoNet_~742254a1-0~0002.ds" />
+        </folder>
+      </folder>
+      <folder name="997690d7-d17f-4d17-9cd6-b6775d9a76c0">
+        <file name="997690d7-d17f-4d17-9cd6-b6775d9a76c0" id="997690d7-~997690d7-d~0000" />
+        <folder name="ServoNet_Axis9">
+          <file name="Slave.masconfig" id="ServoNet_Axis9~Slave~0000.masconfig" />
+          <file name="Slave.masop" id="ServoNet_Axis9~Slave~0001.masop" />
+          <file name="Slave.maslim" id="ServoNet_Axis9~Slave~0002.maslim" />
+          <file name="Slave.masfc" id="ServoNet_Axis9~Slave~0003.masfc" />
+          <file name="DataList.dlr4pd" id="ServoNet_Ax~DataList~0002.dlr4pd" />
+          <file name="c7a77652-72dd-4016-b4a7-2c6b1a5e801e.alrm" id="ServoNet_~c7a77652-7~0000.alrm" />
+          <file name="c7a77652-72dd-4016-b4a7-2c6b1a5e801e.iprop" id="ServoNet_~c7a77652-7~0001.iprop" />
+          <file name="c7a77652-72dd-4016-b4a7-2c6b1a5e801e.ds" id="ServoNet_~c7a77652-7~0002.ds" />
+        </folder>
+      </folder>
+      <folder name="14653959-a4e7-4a38-956c-b968088373ff">
+        <file name="14653959-a4e7-4a38-956c-b968088373ff" id="14653959-~14653959-a~0000" />
+        <folder name="ServoNet_Axis10">
+          <file name="Slave.masconfig" id="ServoNet_Axis1~Slave~0000.masconfig" />
+          <file name="Slave.masop" id="ServoNet_Axis1~Slave~0001.masop" />
+          <file name="Slave.maslim" id="ServoNet_Axis1~Slave~0002.maslim" />
+          <file name="Slave.masfc" id="ServoNet_Axis1~Slave~0003.masfc" />
+          <file name="DataList.dlr4pd" id="ServoNet_Ax~DataList~0003.dlr4pd" />
+          <file name="fabd9369-eead-4e3e-bcd4-6fd7b9fcd246.alrm" id="ServoNet_~fabd9369-e~0000.alrm" />
+          <file name="fabd9369-eead-4e3e-bcd4-6fd7b9fcd246.iprop" id="ServoNet_~fabd9369-e~0001.iprop" />
+          <file name="fabd9369-eead-4e3e-bcd4-6fd7b9fcd246.ds" id="ServoNet_~fabd9369-e~0002.ds" />
+        </folder>
+      </folder>
+      <folder name="0e58b02c-9518-47b6-a644-ad67feca7e96">
+        <file name="0e58b02c-9518-47b6-a644-ad67feca7e96" id="0e58b02c-~0e58b02c-9~0000" />
+        <folder name="ServoNet_Axis11">
+          <file name="Slave.masconfig" id="ServoNet_Axis1~Slave~0004.masconfig" />
+          <file name="Slave.masop" id="ServoNet_Axis1~Slave~0005.masop" />
+          <file name="Slave.maslim" id="ServoNet_Axis1~Slave~0006.maslim" />
+          <file name="Slave.masfc" id="ServoNet_Axis1~Slave~0007.masfc" />
+          <file name="DataList.dlr4pd" id="ServoNet_Ax~DataList~0004.dlr4pd" />
+          <file name="0a327744-08e2-4ddb-959c-1faf1a6a997d.alrm" id="ServoNet_~0a327744-0~0000.alrm" />
+          <file name="0a327744-08e2-4ddb-959c-1faf1a6a997d.iprop" id="ServoNet_~0a327744-0~0001.iprop" />
+          <file name="0a327744-08e2-4ddb-959c-1faf1a6a997d.ds" id="ServoNet_~0a327744-0~0002.ds" />
+        </folder>
+      </folder>
+      <folder name="a19f7986-48ac-4aa9-87ab-03e411b69eba">
+        <file name="a19f7986-48ac-4aa9-87ab-03e411b69eba" id="a19f7986-~a19f7986-4~0000" />
+        <folder name="ServoNet_Axis12">
+          <file name="Slave.masconfig" id="ServoNet_Axis1~Slave~0008.masconfig" />
+          <file name="Slave.masop" id="ServoNet_Axis1~Slave~0009.masop" />
+          <file name="Slave.maslim" id="ServoNet_Axis1~Slave~000a.maslim" />
+          <file name="Slave.masfc" id="ServoNet_Axis1~Slave~000b.masfc" />
+          <file name="DataList.dlr4pd" id="ServoNet_Ax~DataList~0005.dlr4pd" />
+          <file name="e122b8de-2559-4fc5-8674-4fb764909040.alrm" id="ServoNet_~e122b8de-2~0000.alrm" />
+          <file name="e122b8de-2559-4fc5-8674-4fb764909040.iprop" id="ServoNet_~e122b8de-2~0001.iprop" />
+          <file name="e122b8de-2559-4fc5-8674-4fb764909040.ds" id="ServoNet_~e122b8de-2~0002.ds" />
+        </folder>
+      </folder>
+      <folder name="c0de51ba-d9f7-4fef-a309-017b65c7c0a5">
+        <file name="c0de51ba-d9f7-4fef-a309-017b65c7c0a5" id="c0de51ba-~c0de51ba-d~0000" />
+        <folder name="ServoNet_Axis13">
+          <file name="Slave.masconfig" id="ServoNet_Axis1~Slave~000c.masconfig" />
+          <file name="Slave.masop" id="ServoNet_Axis1~Slave~000d.masop" />
+          <file name="Slave.maslim" id="ServoNet_Axis1~Slave~000e.maslim" />
+          <file name="Slave.masfc" id="ServoNet_Axis1~Slave~000f.masfc" />
+          <file name="DataList.dlr4pd" id="ServoNet_Ax~DataList~0006.dlr4pd" />
+          <file name="a9575470-5af7-4ac8-8788-380dfa8783d1.alrm" id="ServoNet_~a9575470-5~0000.alrm" />
+          <file name="a9575470-5af7-4ac8-8788-380dfa8783d1.iprop" id="ServoNet_~a9575470-5~0001.iprop" />
+          <file name="a9575470-5af7-4ac8-8788-380dfa8783d1.ds" id="ServoNet_~a9575470-5~0002.ds" />
+        </folder>
+      </folder>
+      <folder name="c83d3676-46b8-4249-b29d-b6c2b7dbeb44">
+        <file name="c83d3676-46b8-4249-b29d-b6c2b7dbeb44" id="c83d3676-~c83d3676-4~0000" />
+        <folder name="DI_8xDC24V_(021-1BF00)">
+          <file name="a8db0aa6-3e01-401b-802d-60ca24772ce9.ds" id="DI_8xDC24~a8db0aa6-3~0000.ds" />
+        </folder>
+      </folder>
+      <folder name="029f1ed1-22e4-45e7-a6cd-d0f75c62db40">
+        <file name="029f1ed1-22e4-45e7-a6cd-d0f75c62db40" id="029f1ed1-~029f1ed1-2~0000" />
+        <folder name="DO_8xDC24V_0_5A_(022-1BF00)">
+          <file name="15ecfe60-2c44-4e05-9de2-aa4a940bfd24.ds" id="DO_8xDC24~15ecfe60-2~0000.ds" />
+        </folder>
+      </folder>
+      <folder name="a8bafde5-54c0-40d9-a230-f9da4f5d28b3">
+        <file name="a8bafde5-54c0-40d9-a230-f9da4f5d28b3" id="a8bafde5-~a8bafde5-5~0000" />
+        <folder name="Generic_Adapter_Device">
+          <file name="08473bc8-fcf2-40b9-9867-62ca4f9502b7.ds" id="Generic_A~08473bc8-f~0000.ds" />
+        </folder>
+      </folder>
+      <folder name="29d8b0df-0475-409d-a05c-9ccfee9662c3">
+        <file name="29d8b0df-0475-409d-a05c-9ccfee9662c3" id="29d8b0df-~29d8b0df-0~0000" />
+        <folder name="ServoNet_Axis4">
+          <file name="Slave.masop" id="ServoNet_Axis4~Slave~0000.masop" />
+          <file name="Slave.masfc" id="ServoNet_Axis4~Slave~0001.masfc" />
+          <file name="a0e9b0d9-0081-411b-983b-5e908b7ca003.ds" id="ServoNet_~a0e9b0d9-0~0000.ds" />
+        </folder>
+      </folder>
+      <folder name="b675b24d-eb3d-4a4b-ab5c-8a4f32f28815">
+        <file name="b675b24d-eb3d-4a4b-ab5c-8a4f32f28815" id="b675b24d-~b675b24d-e~0000" />
+        <folder name="FB_PickPlace_Sequencer.pou">
+          <file name="Metadata.meta" id="FB_PickPlac~Metadata~0000.meta" />
+          <file name="Variables.var" id="FB_PickPla~Variables~0000.var" />
+          <file name="VersionHistory.usermeta" id="FB_PickPl~VersionHis~0000.usermeta" />
+          <file name="Description.html" id="FB_PickPl~Descriptio~0000.html" />
+          <file name="Description.rtf" id="FB_PickPl~Descriptio~0001.rtf" />
+          <file name="Variables.var.locres" id="FB_PickPl~Variables.~0000.locres" />
+          <file name="User.locres" id="FB_PickPlace_Se~User~0000.locres" />
+          <file name="Code.st" id="FB_PickPlace_Se~Code~0000.st" />
+          <file name="Instruction.st" id="FB_PickPl~Instructio~0000.st" />
+          <folder name="M_Driver_Motion_Cmd.method">
+            <file name="Metadata.meta" id="M_Driver_Mo~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_Driver_M~Variables~0000.var" />
+            <file name="Code.st" id="M_Driver_Motion~Code~0000.st" />
+          </folder>
+          <folder name="M_Driver_Motion_Check.method">
+            <file name="Metadata.meta" id="M_Driver_Mo~Metadata~0001.meta" />
+            <file name="Variables.var" id="M_Driver_M~Variables~0001.var" />
+            <file name="Code.st" id="M_Driver_Motion~Code~0001.st" />
+          </folder>
+          <folder name="M_Step_ApproachPick_Tracking.method">
+            <file name="Metadata.meta" id="M_Step_Appr~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_Step_App~Variables~0000.var" />
+            <file name="Code.st" id="M_Step_Approach~Code~0000.st" />
+          </folder>
+          <folder name="M_ResetMachine.method">
+            <file name="Metadata.meta" id="M_ResetMach~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_ResetMac~Variables~0000.var" />
+            <file name="Code.st" id="M_ResetMachine.~Code~0000.st" />
+          </folder>
+          <folder name="M_ConfigSequence_Run.method">
+            <file name="Metadata.meta" id="M_ConfigSeq~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_ConfigSe~Variables~0000.var" />
+            <file name="Code.st" id="M_ConfigSequenc~Code~0000.st" />
+          </folder>
+          <folder name="M_ConfigSequence_Parking.method">
+            <file name="Metadata.meta" id="M_ConfigSeq~Metadata~0001.meta" />
+            <file name="Variables.var" id="M_ConfigSe~Variables~0001.var" />
+            <file name="Code.st" id="M_ConfigSequenc~Code~0001.st" />
+          </folder>
+          <folder name="AddStep.method">
+            <file name="Metadata.meta" id="AddStep.met~Metadata~0000.meta" />
+            <file name="Variables.var" id="AddStep.me~Variables~0000.var" />
+            <file name="Code.st" id="AddStep.method~Code~0000.st" />
+          </folder>
+          <folder name="M_Dispatcher.method">
+            <file name="Metadata.meta" id="M_Dispatche~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_Dispatch~Variables~0000.var" />
+            <file name="Code.st" id="M_Dispatcher.me~Code~0000.st" />
+          </folder>
+          <folder name="M_Step_Initialize.method">
+            <file name="Metadata.meta" id="M_Step_Init~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_Step_Ini~Variables~0000.var" />
+            <file name="Code.st" id="M_Step_Initiali~Code~0000.st" />
+          </folder>
+          <folder name="M_Step_CheckPickLimits.method">
+            <file name="Metadata.meta" id="M_Step_Chec~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_Step_Che~Variables~0000.var" />
+            <file name="Code.st" id="M_Step_CheckPic~Code~0000.st" />
+          </folder>
+          <folder name="M_Step_WaitForPickSync.method">
+            <file name="Metadata.meta" id="M_Step_Wait~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_Step_Wai~Variables~0000.var" />
+            <file name="Code.st" id="M_Step_WaitForP~Code~0000.st" />
+          </folder>
+          <folder name="M_Step_CalcPickOffset.method">
+            <file name="Code.st" id="M_Step_CalcPick~Code~0000.st" />
+            <file name="Metadata.meta" id="M_Step_Calc~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_Step_Cal~Variables~0000.var" />
+          </folder>
+          <folder name="M_Step_SetPickFrame_Tracking.method">
+            <file name="Code.st" id="M_Step_SetPickF~Code~0000.st" />
+            <file name="Metadata.meta" id="M_Step_SetP~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_Step_Set~Variables~0000.var" />
+          </folder>
+          <folder name="M_Step_ConvertPickToCartesian_Tracking.method">
+            <file name="Code.st" id="M_Step_ConvertP~Code~0000.st" />
+            <file name="Metadata.meta" id="M_Step_Conv~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_Step_Con~Variables~0000.var" />
+          </folder>
+          <folder name="M_Step_SetPickOffsetAndPCS_Tracking.method">
+            <file name="Code.st" id="M_Step_SetPickO~Code~0000.st" />
+            <file name="Metadata.meta" id="M_Step_SetP~Metadata~0001.meta" />
+            <file name="Variables.var" id="M_Step_Set~Variables~0001.var" />
+          </folder>
+          <folder name="M_Step_EnablePickTracking.method">
+            <file name="Code.st" id="M_Step_EnablePi~Code~0000.st" />
+            <file name="Metadata.meta" id="M_Step_Enab~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_Step_Ena~Variables~0000.var" />
+          </folder>
+          <folder name="M_Step_DescendAndPick.method">
+            <file name="Code.st" id="M_Step_DescendA~Code~0000.st" />
+            <file name="Metadata.meta" id="M_Step_Desc~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_Step_Des~Variables~0000.var" />
+          </folder>
+          <folder name="M_Step_WaitAfterPick_Tracking.method">
+            <file name="Code.st" id="M_Step_WaitAfte~Code~0000.st" />
+            <file name="Metadata.meta" id="M_Step_Wait~Metadata~0001.meta" />
+            <file name="Variables.var" id="M_Step_Wai~Variables~0001.var" />
+          </folder>
+          <folder name="M_Step_AscendAfterPick.method">
+            <file name="Code.st" id="M_Step_AscendAf~Code~0000.st" />
+            <file name="Metadata.meta" id="M_Step_Asce~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_Step_Asc~Variables~0000.var" />
+          </folder>
+          <folder name="M_Step_MoveToParking_AfterPick.method">
+            <file name="Code.st" id="M_Step_MoveToPa~Code~0000.st" />
+            <file name="Metadata.meta" id="M_Step_Move~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_Step_Mov~Variables~0000.var" />
+          </folder>
+          <folder name="M_Step_SelectNextProduct_Pick.method">
+            <file name="Code.st" id="M_Step_SelectNe~Code~0000.st" />
+            <file name="Metadata.meta" id="M_Step_Sele~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_Step_Sel~Variables~0000.var" />
+          </folder>
+          <folder name="M_Step_InitializePlace.method">
+            <file name="Code.st" id="M_Step_Initiali~Code~0001.st" />
+            <file name="Metadata.meta" id="M_Step_Init~Metadata~0001.meta" />
+            <file name="Variables.var" id="M_Step_Ini~Variables~0001.var" />
+          </folder>
+          <folder name="M_Step_CheckPlaceLimits.method">
+            <file name="Code.st" id="M_Step_CheckPla~Code~0000.st" />
+            <file name="Metadata.meta" id="M_Step_Chec~Metadata~0001.meta" />
+            <file name="Variables.var" id="M_Step_Che~Variables~0001.var" />
+          </folder>
+          <folder name="M_Step_SetPlaceFrame_Tracking.method">
+            <file name="Code.st" id="M_Step_SetPlace~Code~0000.st" />
+            <file name="Metadata.meta" id="M_Step_SetP~Metadata~0002.meta" />
+            <file name="Variables.var" id="M_Step_Set~Variables~0002.var" />
+          </folder>
+          <folder name="M_Step_ConvertPlaceToCartesian_Tracking.method">
+            <file name="Code.st" id="M_Step_ConvertP~Code~0001.st" />
+            <file name="Metadata.meta" id="M_Step_Conv~Metadata~0001.meta" />
+            <file name="Variables.var" id="M_Step_Con~Variables~0001.var" />
+          </folder>
+          <folder name="M_Step_SetPlaceOffsetAndPCS_Tracking.method">
+            <file name="Code.st" id="M_Step_SetPlace~Code~0001.st" />
+            <file name="Metadata.meta" id="M_Step_SetP~Metadata~0003.meta" />
+            <file name="Variables.var" id="M_Step_Set~Variables~0003.var" />
+          </folder>
+          <folder name="M_Step_EnablePlaceTracking.method">
+            <file name="Code.st" id="M_Step_EnablePl~Code~0000.st" />
+            <file name="Metadata.meta" id="M_Step_Enab~Metadata~0001.meta" />
+            <file name="Variables.var" id="M_Step_Ena~Variables~0001.var" />
+          </folder>
+          <folder name="M_Step_ApproachPlace_Tracking.method">
+            <file name="Code.st" id="M_Step_Approach~Code~0001.st" />
+            <file name="Metadata.meta" id="M_Step_Appr~Metadata~0001.meta" />
+            <file name="Variables.var" id="M_Step_App~Variables~0001.var" />
+          </folder>
+          <folder name="M_Step_WaitForPlaceSync.method">
+            <file name="Code.st" id="M_Step_WaitForP~Code~0001.st" />
+            <file name="Metadata.meta" id="M_Step_Wait~Metadata~0002.meta" />
+            <file name="Variables.var" id="M_Step_Wai~Variables~0002.var" />
+          </folder>
+          <folder name="M_Step_DescendAndPlace.method">
+            <file name="Code.st" id="M_Step_DescendA~Code~0001.st" />
+            <file name="Metadata.meta" id="M_Step_Desc~Metadata~0001.meta" />
+            <file name="Variables.var" id="M_Step_Des~Variables~0001.var" />
+          </folder>
+          <folder name="M_Step_WaitAfterPlace_Tracking.method">
+            <file name="Code.st" id="M_Step_WaitAfte~Code~0001.st" />
+            <file name="Metadata.meta" id="M_Step_Wait~Metadata~0003.meta" />
+            <file name="Variables.var" id="M_Step_Wai~Variables~0003.var" />
+          </folder>
+          <folder name="M_Step_AscendAfterPlace.method">
+            <file name="Code.st" id="M_Step_AscendAf~Code~0001.st" />
+            <file name="Metadata.meta" id="M_Step_Asce~Metadata~0001.meta" />
+            <file name="Variables.var" id="M_Step_Asc~Variables~0001.var" />
+          </folder>
+          <folder name="M_Step_MoveToParking_AfterPlace.method">
+            <file name="Code.st" id="M_Step_MoveToPa~Code~0001.st" />
+            <file name="Metadata.meta" id="M_Step_Move~Metadata~0001.meta" />
+            <file name="Variables.var" id="M_Step_Mov~Variables~0001.var" />
+          </folder>
+          <folder name="M_Step_CycleCompletitionAndChangeMode.method">
+            <file name="Code.st" id="M_Step_CycleCom~Code~0000.st" />
+            <file name="Metadata.meta" id="M_Step_Cycl~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_Step_Cyc~Variables~0000.var" />
+          </folder>
+          <folder name="M_Step_InitParking.method">
+            <file name="Code.st" id="M_Step_InitPark~Code~0000.st" />
+            <file name="Metadata.meta" id="M_Step_Init~Metadata~0002.meta" />
+            <file name="Variables.var" id="M_Step_Ini~Variables~0002.var" />
+          </folder>
+          <folder name="M_Step_MoveToParking_SafePosition.method">
+            <file name="Code.st" id="M_Step_MoveToPa~Code~0002.st" />
+            <file name="Metadata.meta" id="M_Step_Move~Metadata~0002.meta" />
+            <file name="Variables.var" id="M_Step_Mov~Variables~0002.var" />
+          </folder>
+          <folder name="M_Step_FinalParkingCompletition.method">
+            <file name="Code.st" id="M_Step_FinalPar~Code~0000.st" />
+            <file name="Metadata.meta" id="M_Step_Fina~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_Step_Fin~Variables~0000.var" />
+          </folder>
+          <folder name="M_Step_Error.method">
+            <file name="Code.st" id="M_Step_Error.me~Code~0000.st" />
+            <file name="Metadata.meta" id="M_Step_Erro~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_Step_Err~Variables~0000.var" />
+          </folder>
+          <folder name="M_Helper_FindStepIndex.method">
+            <file name="Code.st" id="M_Helper_FindSt~Code~0000.st" />
+            <file name="Metadata.meta" id="M_Helper_Fi~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_Helper_F~Variables~0000.var" />
+          </folder>
+        </folder>
+      </folder>
+      <folder name="fccecb97-af73-41f8-b3d4-2e2009346cce">
+        <file name="fccecb97-af73-41f8-b3d4-2e2009346cce" id="fccecb97-~fccecb97-a~0000" />
+        <folder name="FB_PickPlace_SM.pou">
+          <file name="Metadata.meta" id="FB_PickPlac~Metadata~0001.meta" />
+          <file name="Variables.var" id="FB_PickPla~Variables~0001.var" />
+          <file name="VersionHistory.usermeta" id="FB_PickPl~VersionHis~0001.usermeta" />
+          <file name="Description.html" id="FB_PickPl~Descriptio~0002.html" />
+          <file name="Description.rtf" id="FB_PickPl~Descriptio~0003.rtf" />
+          <file name="Variables.var.locres" id="FB_PickPl~Variables.~0001.locres" />
+          <file name="User.locres" id="FB_PickPlace_SM~User~0000.locres" />
+          <file name="Code.st" id="FB_PickPlace_SM~Code~0000.st" />
+          <file name="Code1.st" id="FB_PickPlace_S~Code1~0000.st" />
+          <file name="Instruction.st" id="FB_PickPl~Instructio~0001.st" />
+          <file name="Code2.st" id="FB_PickPlace_S~Code2~0000.st" />
+          <folder name="M_Phase_Initialize.method">
+            <file name="Metadata.meta" id="M_Phase_Ini~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_Phase_In~Variables~0000.var" />
+            <file name="Code.st" id="M_Phase_Initial~Code~0000.st" />
+          </folder>
+          <folder name="M_Phase_Pick.method">
+            <file name="Metadata.meta" id="M_Phase_Pic~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_Phase_Pi~Variables~0000.var" />
+            <file name="Code.st" id="M_Phase_Pick.me~Code~0000.st" />
+          </folder>
+          <folder name="M_Phase_Place.method">
+            <file name="Metadata.meta" id="M_Phase_Pla~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_Phase_Pl~Variables~0000.var" />
+            <file name="Code.st" id="M_Phase_Place.m~Code~0000.st" />
+          </folder>
+          <folder name="M_Phase_Parking.method">
+            <file name="Metadata.meta" id="M_Phase_Par~Metadata~0000.meta" />
+            <file name="Variables.var" id="M_Phase_Pa~Variables~0000.var" />
+            <file name="Code.st" id="M_Phase_Parking~Code~0000.st" />
+          </folder>
+          <folder name="M_ResetMachine.method">
+            <file name="Metadata.meta" id="M_ResetMach~Metadata~0001.meta" />
+            <file name="Variables.var" id="M_ResetMac~Variables~0001.var" />
+            <file name="Code.st" id="M_ResetMachine.~Code~0001.st" />
+          </folder>
+        </folder>
+      </folder>
+      <folder name="4b6a2e13-7b50-4f27-98df-96043a5f8f09">
+        <file name="4b6a2e13-7b50-4f27-98df-96043a5f8f09" id="4b6a2e13-~4b6a2e13-7~0000" />
+        <folder name="AutoCycle_DELTA.pou">
+          <file name="Metadata.meta" id="AutoCycle_D~Metadata~0000.meta" />
+          <file name="Variables.var" id="AutoCycle_~Variables~0000.var" />
+          <file name="VersionHistory.usermeta" id="AutoCycle~VersionHis~0000.usermeta" />
+          <file name="Description.html" id="AutoCycle~Descriptio~0000.html" />
+          <file name="Description.rtf" id="AutoCycle~Descriptio~0001.rtf" />
+          <file name="Variables.var.locres" id="AutoCycle~Variables.~0000.locres" />
+          <file name="User.locres" id="AutoCycle_DELTA~User~0000.locres" />
+          <file name="RuntimeService.st" id="AutoCycle~RuntimeSer~0000.st" />
+          <file name="Pick_n_Place.st" id="AutoCycle~Pick_n_Pla~0000.st" />
+          <file name="TestBlend.st" id="AutoCycle_~TestBlend~0000.st" />
+          <file name="Instruction.st" id="AutoCycle~Instructio~0000.st" />
+        </folder>
+      </folder>
+    </folder>
+  </folder>
+</content>

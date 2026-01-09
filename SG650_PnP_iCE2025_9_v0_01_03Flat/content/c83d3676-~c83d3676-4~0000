@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RestoreDataItem Version="1" DeletionDate="2025-11-27 16:30:27Z" DisplayName="di-1 : DI 8xDC24V (021-1BF00)">
+    <NodeData DomainId="e639c0f9-db09-46f4-abf7-50216a13f220" SolutionId="606e2993-1c57-411c-b0d2-c57a13c52bbf" NodeId="c83d3676-46b8-4249-b29d-b6c2b7dbeb44" ParentId="a6fdec44-63d7-46c8-ab73-ee4fdafeff13" PredecessorId="3a06059a-3948-4f75-8aa9-64f557d2938a" Position="7" Kind="Instance" />
+</RestoreDataItem>

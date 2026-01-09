@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Metadata>
+   <FolderType>MethodFolder</FolderType>
+   <ContentType>Method</ContentType>
+   <Kind>Method</Kind>
+   <ReturnType>E_StepStatus</ReturnType>
+   <AccessSpecifier>PUBLIC</AccessSpecifier>
+   <Id>f5eabfd8-8dd2-4f58-ad0b-9ba289ddeadc</Id>
+   <ItemGroup>
+      <VariableWorksheet>
+         <Id>418c5212-c03f-4319-a1d3-b879bb6196bd</Id>
+      </VariableWorksheet>
+      <CodeWorksheet Include="Code.st">
+         <Id>9f8b3ea5-c802-432f-9c7d-c181db524103</Id>
+         <Extension>.st</Extension>
+         <Type>.st</Type>
+         <ParentIndex>0</ParentIndex>
+      </CodeWorksheet>
+   </ItemGroup>
+</Metadata>

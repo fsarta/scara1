@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SafetyMessageLog xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="Ade.Safety.Utilities.MessageLog/v1">
+  <HashAlgorithmName>SHA256</HashAlgorithmName>
+  <Signature>1QtAEY3ISu60cZ6n+iHFWFdBdUo0lroagixqBKKmjSY=</Signature>
+  <Entries>
+    <LogEntry>
+      <SeqNo>0</SeqNo>
+      <Entry xmlns:d4p1="http://schemas.datacontract.org/2004/07/Sep.Persistence.Messaging">
+        <Type>Information</Type>
+        <TimeStamp>2025-06-27T12:21:39.1250727+02:00</TimeStamp>
+        <UserName>TestAgent</UserName>
+        <DomainId>0B05D85D-74EB-4C04-BAE5-29B45D5D933F</DomainId>
+        <MessageId>SCSA1000</MessageId>
+        <CompleteMessage>Password has been created</CompleteMessage>
+      </Entry>
+    </LogEntry>
+    <LogEntry>
+      <SeqNo>1</SeqNo>
+      <Entry xmlns:d4p1="http://schemas.datacontract.org/2004/07/Sep.Persistence.Messaging">
+        <Type>Information</Type>
+        <TimeStamp>2025-06-27T12:21:39.4291269+02:00</TimeStamp>
+        <UserName>TestAgent</UserName>
+        <DomainId>0B05D85D-74EB-4C04-BAE5-29B45D5D933F</DomainId>
+        <MessageId>SCSM1002</MessageId>
+        <CompleteMessage>The POU S_Main was inserted into the folder Logical Elements.</CompleteMessage>
+      </Entry>
+    </LogEntry>
+    <LogEntry>
+      <SeqNo>2</SeqNo>
+      <Entry xmlns:d4p1="http://schemas.datacontract.org/2004/07/Sep.Persistence.Messaging">
+        <Type>Information</Type>
+        <TimeStamp>2025-06-27T12:21:39.4770283+02:00</TimeStamp>
+        <UserName>TestAgent</UserName>
+        <DomainId>0B05D85D-74EB-4C04-BAE5-29B45D5D933F</DomainId>
+        <MessageId>SCDP1003</MessageId>
+        <CompleteMessage>The device 'ic9226m-fsoe-1' has been inserted.</CompleteMessage>
+      </Entry>
+    </LogEntry>
+  </Entries>
+</SafetyMessageLog>

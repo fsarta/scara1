@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RestoreDataItem Version="1" DeletionDate="2026-01-09 08:10:03Z" DisplayName="FB_PickPlace_Sequencer">
+    <NodeData DomainId="e639c0f9-db09-46f4-abf7-50216a13f220" SolutionId="606e2993-1c57-411c-b0d2-c57a13c52bbf" NodeId="b675b24d-eb3d-4a4b-ab5c-8a4f32f28815" ParentId="4d142ecb-9484-4afe-8bcf-0380e8586cf7" PredecessorId="ecfeaf02-8ecb-4fe5-b20b-4248bb3d2174" Position="4" Kind="Type" />
+</RestoreDataItem>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RestoreDataItem Version="1" DeletionDate="2025-12-19 08:07:59Z" DisplayName="B_Axis : ServoNet Axis">
+    <NodeData DomainId="e639c0f9-db09-46f4-abf7-50216a13f220" SolutionId="606e2993-1c57-411c-b0d2-c57a13c52bbf" NodeId="29d8b0df-0475-409d-a05c-9ccfee9662c3" ParentId="5110f685-7efc-4051-a67f-fce86cdbd15b" PredecessorId="8cc4ccd9-2f59-49cf-a850-b85109690a15" Position="5" Kind="Instance" />
+</RestoreDataItem>

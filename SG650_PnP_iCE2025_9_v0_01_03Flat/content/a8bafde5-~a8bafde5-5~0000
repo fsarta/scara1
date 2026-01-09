@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RestoreDataItem Version="1" DeletionDate="2025-11-28 10:39:00Z" DisplayName="VisorEIP-1 : Generic Adapter Device">
+    <NodeData DomainId="e639c0f9-db09-46f4-abf7-50216a13f220" SolutionId="606e2993-1c57-411c-b0d2-c57a13c52bbf" NodeId="a8bafde5-54c0-40d9-a230-f9da4f5d28b3" ParentId="db952e51-6e33-49bd-92ee-d86cccdb234f" PredecessorId="e3bfc95d-310f-4e19-8b30-b1c7d1076161" Position="7" Kind="Instance" />
+</RestoreDataItem>

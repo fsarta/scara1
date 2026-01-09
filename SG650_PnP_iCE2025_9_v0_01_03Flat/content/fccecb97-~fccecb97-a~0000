@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RestoreDataItem Version="1" DeletionDate="2026-01-09 08:10:05Z" DisplayName="FB_PickPlace_SM">
+    <NodeData DomainId="e639c0f9-db09-46f4-abf7-50216a13f220" SolutionId="606e2993-1c57-411c-b0d2-c57a13c52bbf" NodeId="fccecb97-af73-41f8-b3d4-2e2009346cce" ParentId="4d142ecb-9484-4afe-8bcf-0380e8586cf7" PredecessorId="d8fc1e06-b349-4285-97f6-1e1e76aa6055" Position="2" Kind="Type" />
+</RestoreDataItem>

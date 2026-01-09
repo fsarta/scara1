@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Metadata>
+   <FolderType>PouFolder</FolderType>
+   <ContentType>Program</ContentType>
+   <Kind>Program</Kind>
+   <Usings></Usings>
+   <Id>4b6a2e13-7b50-4f27-98df-96043a5f8f09</Id>
+   <ItemGroup>
+      <VariableWorksheet>
+         <Id>64f61a99-4ae4-44e8-b460-c2fa43938dda</Id>
+      </VariableWorksheet>
+      <CodeWorksheet Include="RuntimeService.st">
+         <Id>2332aed9-7d07-41bf-b07e-64f98cddc27c</Id>
+         <Extension>.st</Extension>
+         <Type>.st</Type>
+         <ParentIndex>0</ParentIndex>
+      </CodeWorksheet>
+      <CodeWorksheet Include="Pick_n_Place.st">
+         <Id>83174cdd-43f6-45c7-9867-039b839cc279</Id>
+         <Extension>.st</Extension>
+         <Type>.st</Type>
+         <ParentIndex>1</ParentIndex>
+      </CodeWorksheet>
+      <CodeWorksheet Include="TestBlend.st">
+         <Id>4bf867cd-ae6c-462f-86dd-4bd3b9c3f328</Id>
+         <Extension>.st</Extension>
+         <Type>.st</Type>
+         <ParentIndex>2</ParentIndex>
+      </CodeWorksheet>
+      <CodeWorksheet Include="Instruction.st">
+         <Id>e42430fb-0348-41ec-b0e8-4b89e2c6e297</Id>
+         <Extension>.st</Extension>
+         <Type>.st</Type>
+         <ParentIndex>3</ParentIndex>
+      </CodeWorksheet>
+   </ItemGroup>
+</Metadata>

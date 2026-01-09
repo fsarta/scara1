@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Metadata>
+   <FolderType>PouFolder</FolderType>
+   <ContentType>FunctionBlock</ContentType>
+   <Kind>FunctionBlock</Kind>
+   <Usings></Usings>
+   <Id>c11d46fb-1785-4cd4-b69c-63f163c8b4ed</Id>
+   <ItemGroup>
+      <VariableWorksheet>
+         <Id>bc994231-fc31-4199-90b0-77e721e052b9</Id>
+      </VariableWorksheet>
+      <CodeWorksheet Include="FB_Instance.st">
+         <Id>fa10bb64-4729-4541-a6ea-30d10ef289a4</Id>
+         <Extension>.st</Extension>
+         <Type>.st</Type>
+         <ParentIndex>0</ParentIndex>
+      </CodeWorksheet>
+      <CodeWorksheet Include="MAPPING_Input.st">
+         <Id>93ed6985-f048-4a44-b1ee-2b7b5150a4c8</Id>
+         <Extension>.st</Extension>
+         <Type>.st</Type>
+         <ParentIndex>1</ParentIndex>
+      </CodeWorksheet>
+      <CodeWorksheet Include="READINGS.st">
+         <Id>fe74c7c7-2940-4fc1-93b7-62a36a6e060e</Id>
+         <Extension>.st</Extension>
+         <Type>.st</Type>
+         <ParentIndex>2</ParentIndex>
+      </CodeWorksheet>
+      <CodeWorksheet Include="TEST_Position.st">
+         <Id>8681ef1a-517c-4553-8078-dca30e85cb3f</Id>
+         <Extension>.st</Extension>
+         <Type>.st</Type>
+         <ParentIndex>3</ParentIndex>
+      </CodeWorksheet>
+      <CodeWorksheet Include="WRITE_Params.st">
+         <Id>454e39ec-7939-4fc3-869b-5bcbfdcf1958</Id>
+         <Extension>.st</Extension>
+         <Type>.st</Type>
+         <ParentIndex>4</ParentIndex>
+      </CodeWorksheet>
+      <CodeWorksheet Include="MOTION.st">
+         <Id>a9b8083d-344f-43c0-8b28-b564a128fc88</Id>
+         <Extension>.st</Extension>
+         <Type>.st</Type>
+         <ParentIndex>5</ParentIndex>
+      </CodeWorksheet>
+      <CodeWorksheet Include="MAPPING_Out.st">
+         <Id>981a8619-f954-425b-892c-6bf5b1a7d8da</Id>
+         <Extension>.st</Extension>
+         <Type>.st</Type>
+         <ParentIndex>6</ParentIndex>
+      </CodeWorksheet>
+   </ItemGroup>
+</Metadata>

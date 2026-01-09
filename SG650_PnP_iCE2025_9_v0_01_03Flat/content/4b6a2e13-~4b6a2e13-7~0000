@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RestoreDataItem Version="1" DeletionDate="2026-01-09 08:10:09Z" DisplayName="AutoCycle_DELTA">
+    <NodeData DomainId="e639c0f9-db09-46f4-abf7-50216a13f220" SolutionId="606e2993-1c57-411c-b0d2-c57a13c52bbf" NodeId="4b6a2e13-7b50-4f27-98df-96043a5f8f09" ParentId="b67248d1-0f0d-4ed3-b76f-ed9abe023a1c" PredecessorId="5c38da8e-0dea-4e63-8f1b-b8bdc568f540" Position="4" Kind="Type" />
+</RestoreDataItem>

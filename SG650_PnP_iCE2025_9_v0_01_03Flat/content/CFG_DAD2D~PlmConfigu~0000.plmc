@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlmConfiguration>
+	<ComponentInstances id="85b1d9b9-b363-41fc-967a-67519d905842" contextUri="adeprojectref:///e639c0f9-db09-46f4-abf7-50216a13f220/606e2993-1c57-411c-b0d2-c57a13c52bbf/dad2d286-4f6b-4807-b381-87d03bbf955e">
+		<ComponentInstance id="cc708b60-13ac-4483-a618-ef91daa08a79" name="Arp.Plc.Eclr" libraryName="Arp.Plc.Eclr" componentType="EclrComponent" comment="" isReadOnly="true" />
+		<ComponentInstance id="ff039633-b0db-4a0d-bc1c-8326230700f7" name="Arp.Io.EthernetIPAdapter" libraryName="Arp.Io.EthernetIP" componentType="ControllerComponent" comment="" isReadOnly="true" />
+		<ComponentInstance id="90f44364-85e8-4b1b-b82e-34688a0ecc6d" name="Arp.Io.PnC" libraryName="Arp.Io.Pn" componentType="ControllerComponent" comment="" isReadOnly="true" />
+		<ComponentInstance id="2bcaa681-b316-4116-a5bc-80bd0a541e6b" name="Arp.Services.Ehmi" libraryName="Arp.Plc.Ehmi" componentType="EhmiComponent" comment="" isReadOnly="true" />
+		<ComponentInstance id="6658e4e4-c531-4eaf-9d82-c26490e33381" name="Arp.Services.FMK" libraryName="Arp.Services.FMK" componentType="ControllerComponent" comment="" isReadOnly="true" />
+	</ComponentInstances>
+</PlmConfiguration>

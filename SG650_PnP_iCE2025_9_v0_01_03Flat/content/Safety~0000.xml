@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content>
+  <folder name="PROJECT">
+    <file name="Safety.area" id="PROJECT~Safety~0000.area" />
+    <folder name="Inventories">
+      <file name="SafetyInventory.xml" id="Inventori~SafetyInve~0000.xml" />
+    </folder>
+    <folder name="Logs">
+      <file name="SafetyMessageLog.xml" id="Logs~SafetyMessageLo~0000.xml" />
+    </folder>
+    <folder name="Logical Elements">
+      <folder name="S_Main.pou">
+        <file name="Code.snold" id="S_Main.pou~Code~0000.snold" />
+        <file name="Description.html" id="S_Main.po~Descriptio~0000.html" />
+        <file name="Description.rtf" id="S_Main.po~Descriptio~0001.rtf" />
+        <file name="Metadata.meta" id="S_Main.pou~Metadata~0000.meta" />
+        <file name="Variables.var" id="S_Main.pou~Variables~0000.var" />
+        <file name="VersionHistory.usermeta" id="S_Main.po~VersionHis~0000.usermeta" />
+      </folder>
+    </folder>
+    <folder name="Hardware">
+      <folder name="CFG_DAD2D2864F6B4807B38187D03BBF955E">
+        <folder name="RES_9744F38493744A68ADA88550937D3A0E">
+          <file name="EsmConfiguration.esmc" id="RES_9744F~EsmConfigu~0000.esmc" />
+          <file name="GlobalVariables.var" id="RES_9744F~GlobalVari~0000.var" />
+        </folder>
+      </folder>
+    </folder>
+  </folder>
+</content>

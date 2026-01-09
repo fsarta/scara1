@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RestoreDataItem Version="1" DeletionDate="2025-11-26 16:40:32Z" DisplayName="servo-1 [simulated] : SGDXS Servopack 100V/200V">
+    <NodeData DomainId="e639c0f9-db09-46f4-abf7-50216a13f220" SolutionId="606e2993-1c57-411c-b0d2-c57a13c52bbf" NodeId="8e6ef501-736b-4904-96e0-eaeccdd770af" ParentId="4ceac27b-95c0-4947-b581-b1d8c0d2e3d6" PredecessorId="5c0222da-016a-43a8-b9d6-2ce557f4f89f" Position="5" Kind="Instance" />
+</RestoreDataItem>

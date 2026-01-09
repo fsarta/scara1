@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Metadata>
+   <FolderType>PouFolder</FolderType>
+   <ContentType>Function</ContentType>
+   <Kind>Function</Kind>
+   <ReturnType>INT</ReturnType>
+   <Usings></Usings>
+   <Id>59ae22d1-23c7-4622-bffe-2256a562ef0f</Id>
+   <ItemGroup>
+      <VariableWorksheet>
+         <Id>7f3cfe83-e845-409c-a02b-2c8e456787d9</Id>
+      </VariableWorksheet>
+      <CodeWorksheet Include="Code.st">
+         <Id>a7d0578f-d295-4cb5-b073-11fb23627a8d</Id>
+         <Extension>.st</Extension>
+         <Type>.st</Type>
+         <ParentIndex>0</ParentIndex>
+      </CodeWorksheet>
+   </ItemGroup>
+</Metadata>

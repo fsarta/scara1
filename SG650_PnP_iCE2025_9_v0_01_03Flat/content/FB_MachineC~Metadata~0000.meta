@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Metadata>
+   <FolderType>PouFolder</FolderType>
+   <ContentType>FunctionBlock</ContentType>
+   <Kind>FunctionBlock</Kind>
+   <Usings></Usings>
+   <Id>07f13864-6b51-4bd3-8c92-f254285f3719</Id>
+   <ItemGroup>
+      <VariableWorksheet>
+         <Id>2970f8e2-d2e3-4b8e-9b91-3b877b8ca558</Id>
+      </VariableWorksheet>
+      <CodeWorksheet Include="FB_Instances.st">
+         <Id>0f23b47a-3e1e-4b23-8c85-3b21518a6503</Id>
+         <Extension>.st</Extension>
+         <Type>.st</Type>
+         <ParentIndex>0</ParentIndex>
+      </CodeWorksheet>
+      <CodeWorksheet Include="Setting_AXES.st">
+         <Id>06f8b46a-aaba-44e5-ad52-9feab69f25b7</Id>
+         <Extension>.st</Extension>
+         <Type>.st</Type>
+         <ParentIndex>1</ParentIndex>
+      </CodeWorksheet>
+      <CodeWorksheet Include="Setting_DELTA.st">
+         <Id>9a4fc893-b5e4-4033-aa53-60282133c68e</Id>
+         <Extension>.st</Extension>
+         <Type>.st</Type>
+         <ParentIndex>2</ParentIndex>
+      </CodeWorksheet>
+      <CodeWorksheet Include="STATE_MACHINE.st">
+         <Id>f2e1d1ce-f9ef-4c12-9097-255b1c027e67</Id>
+         <Extension>.st</Extension>
+         <Type>.st</Type>
+         <ParentIndex>3</ParentIndex>
+      </CodeWorksheet>
+   </ItemGroup>
+</Metadata>

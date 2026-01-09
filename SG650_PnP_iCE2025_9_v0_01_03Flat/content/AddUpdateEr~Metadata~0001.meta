@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Metadata>
+   <FolderType>MethodFolder</FolderType>
+   <Kind>Method</Kind>
+   <ContentType>Method</ContentType>
+   <ReturnType>BOOL</ReturnType>
+   <AccessSpecifier>PUBLIC</AccessSpecifier>
+   <Id>17339149-6cae-43b7-93f1-b6b2eaed602c</Id>
+   <ItemGroup>
+      <VariableWorksheet>
+         <Id>850a54a5-c2ef-4436-8b9f-e84442f59724</Id>
+      </VariableWorksheet>
+      <CodeWorksheet Include="Code.st">
+         <Id>38a04363-0606-485e-a45d-8e13ab96cd9f</Id>
+         <Extension>.st</Extension>
+         <Type>.st</Type>
+         <ParentIndex>0</ParentIndex>
+      </CodeWorksheet>
+   </ItemGroup>
+</Metadata>
