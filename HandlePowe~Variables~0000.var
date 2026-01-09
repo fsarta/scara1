@@ -1,0 +1,5 @@
+{ CustomGroupDefinition('e8da7361-ff10-4b91-b12f-cb0f3e964906', '') }
+
+VAR
+    bServosNotReady : BOOL { CustomGroupReference('e8da7361-ff10-4b91-b12f-cb0f3e964906') } {Id('6b54d902-4566-417c-9462-ef3861b802af')};
+END_VAR

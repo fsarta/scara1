@@ -1,0 +1,12 @@
+{ CustomGroupDefinition('a04e0da4-75a3-431c-a769-2ffcda83b779', '') }
+
+VAR
+    FB_MachineController1 : FB_MachineController { CustomGroupReference('a04e0da4-75a3-431c-a769-2ffcda83b779') } {Id('9c2f15f1-cbae-4724-af00-15de6a41860f')};
+    FB_VisionApplication1 : FB_VisionApplication { CustomGroupReference('a04e0da4-75a3-431c-a769-2ffcda83b779') } {Id('495c41b7-81c7-48c4-9b18-b29e44618525')};
+    stInput : DT_VISOR_Assem5_Input { CustomGroupReference('a04e0da4-75a3-431c-a769-2ffcda83b779') } {Id('9b54ae15-9cab-4af7-85f7-ba2377b539c0')};
+    stOutput : DT_VISOR_Output { CustomGroupReference('a04e0da4-75a3-431c-a769-2ffcda83b779') } {Id('fc8669e2-f016-4cc0-8038-334abda8068e')};
+END_VAR
+
+VAR_EXTERNAL
+    VisorEIP_Receive : Yt_ByteArray72 { CustomGroupReference('a04e0da4-75a3-431c-a769-2ffcda83b779') } {Id('8024b1c1-1392-472d-92da-7d56fbc2bbb4')};
+END_VAR

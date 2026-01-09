@@ -1,0 +1,18 @@
+{ CustomGroupDefinition('a04e0da4-75a3-431c-a769-2ffcda83b779', '') }
+
+VAR
+    fbVisionApp : FB_VisionApplication { CustomGroupReference('a04e0da4-75a3-431c-a769-2ffcda83b779') } {Id('806342de-f604-4bbe-8011-a65ac01d5cda')};
+    xPartInPosition : BOOL { CustomGroupReference('a04e0da4-75a3-431c-a769-2ffcda83b779') } {Id('698f6447-8b8a-49df-b336-c71ccb5392d9')};
+    xHMI_Reset : BOOL { CustomGroupReference('a04e0da4-75a3-431c-a769-2ffcda83b779') } {Id('7d569e41-9aa2-43c6-aa8a-ee095c8f026c')};
+    xHMI_StartCycle : BOOL { CustomGroupReference('a04e0da4-75a3-431c-a769-2ffcda83b779') } {Id('ac2ab98e-5cd2-452f-ab49-a99bd42c1a47')};
+    xEnableCyclicMode : BOOL { CustomGroupReference('a04e0da4-75a3-431c-a769-2ffcda83b779') } {Id('758de7cc-ce6a-4327-8ffa-765cb39d45dd')}; (*Set TRUE for timed, FALSE for external*)
+    tMyCyclicTime : TIME := TIME#500MS { CustomGroupReference('a04e0da4-75a3-431c-a769-2ffcda83b779') } {Id('5e166ac3-3b42-47ef-af0e-f671a5c89176')}; (*Cyclic trigger*)
+    stMyVisionResults : DT_VISOR_Assem5_ResultData { CustomGroupReference('a04e0da4-75a3-431c-a769-2ffcda83b779') } {Id('af1d5225-ed49-4b8c-ae98-a5db1292fd60')};
+    xVisionCycleDone : BOOL { CustomGroupReference('a04e0da4-75a3-431c-a769-2ffcda83b779') } {Id('e1d31f09-34c4-4909-b913-2e00498172ed')};
+END_VAR
+
+VAR_EXTERNAL
+    VisorEIP_Receive : Yt_ByteArray72 { CustomGroupReference('a04e0da4-75a3-431c-a769-2ffcda83b779') } {Id('09b45148-10d0-4044-ab33-06d20fe26e61')};
+    VisorEIP_Transmit : Yt_ByteArray3 { CustomGroupReference('a04e0da4-75a3-431c-a769-2ffcda83b779') } {Id('f3ae7a5f-a2f2-45e2-86a8-6eea463a3c1d')};
+    eip_1_ConnectionState : EIP_STATUS_REF { CustomGroupReference('a04e0da4-75a3-431c-a769-2ffcda83b779') } {Id('3940691b-234d-4801-bda9-456985422501')}; (* (!!! DO NOT MODIFY !!! - Variable is automatically linked to device)*)
+END_VAR

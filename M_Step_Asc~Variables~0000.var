@@ -1,0 +1,10 @@
+{ CustomGroupDefinition('35d0f3ab-c9b0-4fad-8d06-ccc4455fc521', '') }
+
+VAR_INPUT
+    ActualBlockMoveID : E_MotionChannel { CustomGroupReference('35d0f3ab-c9b0-4fad-8d06-ccc4455fc521') } {Id('e17930c0-19d0-436f-92e3-d854a51b7085')};
+    PreviousBlockMoveID : E_MotionChannel { CustomGroupReference('35d0f3ab-c9b0-4fad-8d06-ccc4455fc521') } {Id('353f3345-d300-4718-9966-f39409421ce4')};
+END_VAR
+
+VAR
+    stMoveOption : Yt_GroupMoveOptions { CustomGroupReference('35d0f3ab-c9b0-4fad-8d06-ccc4455fc521') } {Id('9924258a-9273-4e6a-9399-5fe8d667700a')};
+END_VAR

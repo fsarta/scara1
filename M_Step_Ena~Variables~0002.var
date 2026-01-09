@@ -1,0 +1,5 @@
+{ CustomGroupDefinition('4e09e5a7-0412-46eb-a4c6-c2e7ed9461e9', '') }
+
+VAR
+    RecordedPosition : LREAL := LREAL#250000.0 { CustomGroupReference('4e09e5a7-0412-46eb-a4c6-c2e7ed9461e9') } {Id('f1004d90-62de-40e8-848a-84699eb69de4')};
+END_VAR
